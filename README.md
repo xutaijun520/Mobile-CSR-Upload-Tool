@@ -25,12 +25,13 @@ python-扩展包:schedule、pymysql
 
 参考视图SQL：
 CREATE VIEW csr_up_total AS SELECT   
-                dir_name,  
-                COUNT(*) AS total_count,  
-                SUM(CASE WHEN status = '0' THEN 1 ELSE 0 END) AS status_zero_count,
-                SUM(CASE WHEN status = '1' THEN 1 ELSE 0 END) AS status_one_count 
-                FROM   csr_file  
-                GROUP BY   dir_name
-                ORDER by dir_name desc;
+dir_name,  
+COUNT(*) AS total_count,  
+SUM(CASE WHEN status = '0' THEN 1 ELSE 0 END) AS status_zero_count,
+SUM(CASE WHEN status = '1' THEN 1 ELSE 0 END) AS status_one_count 
+FROM   csr_file  
+GROUP BY   dir_name
+ORDER by dir_name desc;
+
 用于BI报表，如果有BI工具的话可以使用。
 ![图片](https://github.com/xutaijun520/Mobile-CSR-Upload-Tool/assets/42400726/ed1d3159-7404-43cd-a85e-adab0e1ccadd)
