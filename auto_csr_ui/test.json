@@ -1,0 +1,71 @@
+{
+    "formid": "QVVB_RKDJ",
+    "data": {
+        "IsAutoAdjustField": "false",
+        "model": {
+            "FBillNo": "",
+            "F_QVVB_YDBH": "SCYJ240301-F4-CGSL2368",
+            "F_QVVB_BillTypeID": {
+                "FNUMBER": "RK-CGRK"
+            },
+            "F_VOZE_Text": "F949677088909365248",
+            "F_QVVB_Date": "2024-03-05 14:37:30",
+            "F_QVVB_OrgId": {
+                "FNUMBER": "12"
+            },
+            "FEntity": [
+                {
+                    "F_QVVB_YXQDATE": "2025-09-09 00:00:00",
+                    "F_QVVB_SCDATE": "2023-09-20 00:00:00",
+                    "F_QVVB_CK": "GN1",
+                    "F_QVVB_PH": "BJ9KT4B",
+                    "F_QVVB_SKU": "120700194",
+                    "F_VOZE_MXID": "108475-10000",
+                    "F_QVVB_BZDATE": "",
+                    "F_QVVB_Decimal": 10000
+                },
+                {
+                    "F_QVVB_YXQDATE": "2025-09-09 00:00:00",
+                    "F_QVVB_SCDATE": "2023-09-20 00:00:00",
+                    "F_QVVB_CK": "GN1",
+                    "F_QVVB_PH": "BJ9KT4B",
+                    "F_QVVB_SKU": "120700194",
+                    "F_VOZE_MXID": "108475-10000",
+                    "F_QVVB_BZDATE": "",
+                    "F_QVVB_Decimal": 10000
+                },
+                {
+                    "F_QVVB_YXQDATE": "2025-09-09 00:00:00",
+                    "F_QVVB_SCDATE": "2023-09-20 00:00:00",
+                    "F_QVVB_CK": "GN1",
+                    "F_QVVB_PH": "BJ9KT4B",
+                    "F_QVVB_SKU": "120700194",
+                    "F_VOZE_MXID": "108475-10000",
+                    "F_QVVB_BZDATE": "",
+                    "F_QVVB_Decimal": 10000
+                },
+                {
+                    "F_QVVB_YXQDATE": "2025-09-09 00:00:00",
+                    "F_QVVB_SCDATE": "2023-09-20 00:00:00",
+                    "F_QVVB_CK": "GN1",
+                    "F_QVVB_PH": "BJ9KT4B",
+                    "F_QVVB_SKU": "120700194",
+                    "F_VOZE_MXID": "108475-10000",
+                    "F_QVVB_BZDATE": "",
+                    "F_QVVB_Decimal": 10000
+                },
+                {
+                    "F_QVVB_YXQDATE": "2025-09-09 00:00:00",
+                    "F_QVVB_SCDATE": "2023-09-20 00:00:00",
+                    "F_QVVB_CK": "GN1",
+                    "F_QVVB_PH": "BJ9KT4B",
+                    "F_QVVB_SKU": "120700194",
+                    "F_VOZE_MXID": "108475-10000",
+                    "F_QVVB_BZDATE": "",
+                    "F_QVVB_Decimal": 10000
+                }
+            ]
+        },
+        "IsVerifyBaseDataField": "false"
+    }
+}

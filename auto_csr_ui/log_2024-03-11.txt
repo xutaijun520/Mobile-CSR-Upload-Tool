@@ -1,0 +1,2820 @@
+2024-03-11 08:41:00,021 - DEBUG - Running job Job(interval=1, unit=days, do=<lambda>, args=(), kwargs={})
+2024-03-11 08:43:56,864 - DEBUG - Running job Job(interval=1, unit=days, do=<lambda>, args=(), kwargs={})
+2024-03-11 08:44:03,286 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 08:44:03,675 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP3NA212D400018_20231106135317_CSR.json']
+2024-03-11 08:45:25,777 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 08:45:25,998 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 08:47:12,780 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']
+2024-03-11 08:47:13,783 - DEBUG - Running job Job(interval=1, unit=days, do=<lambda>, args=(), kwargs={})
+2024-03-11 08:49:02,135 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 08:49:02,343 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 08:49:02,421 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 08:49:41,373 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP3NA212D400018_20231106135317_CSR.json']
+2024-03-11 08:51:13,558 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']
+2024-03-11 10:01:00,941 - DEBUG - Running job Job(interval=1, unit=days, do=<lambda>, args=(), kwargs={})
+2024-03-11 10:01:40,119 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 10:02:26,936 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 10:02:27,501 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 10:03:25,286 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP3NA212D400018_20231106135317_CSR.json']
+2024-03-11 10:04:51,039 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']
+2024-03-11 10:08:34,024 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 10:08:46,518 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP3NA212D400018_20231106135317_CSR.json']
+2024-03-11 10:08:56,194 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 10:09:02,137 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 10:09:16,057 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']
+2024-03-11 10:20:25,437 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 10:20:25,590 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP3NA212D400018_20231106135317_CSR.json']
+2024-03-11 10:20:25,606 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 10:20:25,682 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 10:20:54,834 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100004_20231107165549_CSR.json']
+2024-03-11 10:20:57,777 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100014_20231107172525_CSR.json']
+2024-03-11 10:20:58,644 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100067_20231107163755_CSR.json']
+2024-03-11 10:20:58,855 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100043_20231107171318_CSR.json']
+2024-03-11 10:21:00,092 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100047_20231107164450_CSR.json']
+2024-03-11 10:21:01,839 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100041_20231107170330_CSR.json']
+2024-03-11 10:21:04,600 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100063_20231107165058_CSR.json']
+2024-03-11 10:21:05,364 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100026_20231107171457_CSR.json']
+2024-03-11 10:21:10,311 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100019_20231107171017_CSR.json']
+2024-03-11 10:21:10,748 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100006_20231107170834_CSR.json']
+2024-03-11 10:21:11,153 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100013_20231107165727_CSR.json']
+2024-03-11 10:21:14,512 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100072_20231107161630_CSR.json']
+2024-03-11 10:21:22,175 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100075_20231107165446_CSR.json']
+2024-03-11 10:21:22,336 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100071_20231107171310_CSR.json']
+2024-03-11 10:21:26,850 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100014_20231107171051_CSR.json']
+2024-03-11 10:21:41,027 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100093_20231107165608_CSR.json']
+2024-03-11 10:21:42,128 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100081_20231107164649_CSR.json']
+2024-03-11 10:21:45,135 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100095_20231107165511_CSR.json']
+2024-03-11 10:21:46,006 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100094_20231107164406_CSR.json']
+2024-03-11 10:21:55,836 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100003_20231107170251_CSR.json']
+2024-03-11 10:21:58,030 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100012_20231107164323_CSR.json']
+2024-03-11 10:22:00,735 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100021_20231107170451_CSR.json']
+2024-03-11 10:22:00,778 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100025_20231107170548_CSR.json']
+2024-03-11 10:22:00,795 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100020_20231107165211_CSR.json']
+2024-03-11 10:22:00,814 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100024_20231107170314_CSR.json']
+2024-03-11 10:22:00,814 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100033_20231107163410_CSR.json']
+2024-03-11 10:22:01,061 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100030_20231107162852_CSR.json']
+2024-03-11 10:22:01,062 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100031_20231107164013_CSR.json']
+2024-03-11 10:22:01,190 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100034_20231107164427_CSR.json']
+2024-03-11 10:22:01,198 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100038_20231107165040_CSR.json']
+2024-03-11 10:22:01,218 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100049_20231107170707_CSR.json']
+2024-03-11 10:22:01,284 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100042_20231107171042_CSR.json']
+2024-03-11 10:22:01,312 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100077_20231107170118_CSR.json']
+2024-03-11 10:22:01,320 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100037_20231107171723_CSR.json']
+2024-03-11 10:22:01,373 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100053_20231107165202_CSR.json']
+2024-03-11 10:22:04,351 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100097_20231107170918_CSR.json']
+2024-03-11 10:22:09,642 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100079_20231107162744_CSR.json']
+2024-03-11 10:22:18,381 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100104_20231107172432_CSR.json']
+2024-03-11 10:22:20,150 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100073_20231107170011_CSR.json']
+2024-03-11 10:22:23,108 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100074_20231107170341_CSR.json']
+2024-03-11 10:22:25,114 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100108_20231107165746_CSR.json']
+2024-03-11 10:22:25,205 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100113_20231107172157_CSR.json']
+2024-03-11 10:22:27,144 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100080_20231107164252_CSR.json']
+2024-03-11 10:22:27,260 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100129_20231107162705_CSR.json']
+2024-03-11 10:22:30,487 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100127_20231107172308_CSR.json']
+2024-03-11 10:22:30,706 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100082_20231107165651_CSR.json']
+2024-03-11 10:22:35,716 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100083_20231107164856_CSR.json']
+2024-03-11 10:22:36,231 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100087_20231107163842_CSR.json']
+2024-03-11 10:22:36,601 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100092_20231107165345_CSR.json']
+2024-03-11 10:22:52,180 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100096_20231107170347_CSR.json']
+2024-03-11 10:22:55,598 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100009_20231107164757_CSR.json']
+2024-03-11 10:22:57,704 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100148_20231107164714_CSR.json']
+2024-03-11 10:22:58,161 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100147_20231107172609_CSR.json']
+2024-03-11 10:23:05,687 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100141_20231107164736_CSR.json']
+2024-03-11 10:23:07,481 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100098_20231107170158_CSR.json']
+2024-03-11 10:23:07,888 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100143_20231107170454_CSR.json']
+2024-03-11 10:23:10,522 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100101_20231107165907_CSR.json']
+2024-03-11 10:23:11,389 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100103_20231107165223_CSR.json']
+2024-03-11 10:23:19,146 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100154_20231107162614_CSR.json']
+2024-03-11 10:23:23,359 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100107_20231107162030_CSR.json']
+2024-03-11 10:23:26,982 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100110_20231107164721_CSR.json']
+2024-03-11 10:23:27,330 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100112_20231107164204_CSR.json']
+2024-03-11 10:23:28,544 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100114_20231107164317_CSR.json']
+2024-03-11 10:23:29,530 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100115_20231107164216_CSR.json']
+2024-03-11 10:23:29,716 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100116_20231107162150_CSR.json']
+2024-03-11 10:23:29,869 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100120_20231107163724_CSR.json']
+2024-03-11 10:23:29,948 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100124_20231107171902_CSR.json']
+2024-03-11 10:23:29,965 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100121_20231107165319_CSR.json']
+2024-03-11 10:23:30,045 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100128_20231107172335_CSR.json']
+2024-03-11 10:23:30,179 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100134_20231107172422_CSR.json']
+2024-03-11 10:23:30,393 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100135_20231107171638_CSR.json']
+2024-03-11 10:23:33,854 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100173_20231107171656_CSR.json']
+2024-03-11 10:23:34,538 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100172_20231107170219_CSR.json']
+2024-03-11 10:23:34,965 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231107\\YJP2NB047D100136_20231107172047_CSR.json']
+2024-03-11 10:24:44,500 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP3NA212D400018_20231106135317_CSR.json']
+2024-03-11 10:25:16,095 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 10:25:22,387 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 10:25:40,738 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 10:31:43,332 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 10:31:43,503 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 10:31:43,597 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP3NA212D400018_20231106135317_CSR.json']
+2024-03-11 10:31:43,683 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 10:33:23,573 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 10:33:25,041 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 10:33:26,244 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 10:33:28,097 - INFO - 成功
+2024-03-11 10:33:35,080 - INFO - 成功
+2024-03-11 10:33:35,380 - INFO - 成功
+2024-03-11 10:33:35,450 - INFO - 成功
+2024-03-11 10:33:36,487 - INFO - 成功
+2024-03-11 10:33:37,694 - INFO - 成功
+2024-03-11 10:33:37,695 - INFO - 成功
+2024-03-11 10:33:37,946 - INFO - 成功
+2024-03-11 10:33:38,309 - INFO - 成功
+2024-03-11 10:33:39,867 - INFO - 成功
+2024-03-11 10:33:39,882 - INFO - 成功
+2024-03-11 10:33:40,766 - INFO - 成功
+2024-03-11 10:33:40,784 - INFO - 成功
+2024-03-11 10:33:40,785 - INFO - 成功
+2024-03-11 10:33:40,799 - INFO - 成功
+2024-03-11 10:33:41,231 - INFO - 成功
+2024-03-11 10:33:42,349 - INFO - 成功
+2024-03-11 10:33:42,370 - INFO - 成功
+2024-03-11 10:33:42,377 - INFO - 成功
+2024-03-11 10:33:43,895 - INFO - 成功
+2024-03-11 10:33:43,895 - INFO - 成功
+2024-03-11 10:33:44,037 - INFO - 成功
+2024-03-11 10:33:44,066 - INFO - 成功
+2024-03-11 10:33:44,163 - INFO - 成功
+2024-03-11 10:33:44,163 - INFO - 成功
+2024-03-11 10:33:44,333 - INFO - 成功
+2024-03-11 10:33:44,483 - INFO - 成功
+2024-03-11 10:33:44,484 - INFO - 成功
+2024-03-11 10:33:44,495 - INFO - 成功
+2024-03-11 10:33:44,586 - INFO - 成功
+2024-03-11 10:33:44,710 - INFO - 成功
+2024-03-11 10:33:46,446 - INFO - 成功
+2024-03-11 10:33:46,449 - INFO - 成功
+2024-03-11 10:33:46,942 - INFO - 成功
+2024-03-11 10:33:46,944 - INFO - 成功
+2024-03-11 10:33:46,945 - INFO - 成功
+2024-03-11 10:33:47,081 - INFO - 成功
+2024-03-11 10:33:47,450 - INFO - 成功
+2024-03-11 10:33:47,469 - INFO - 成功
+2024-03-11 10:33:47,565 - INFO - 成功
+2024-03-11 10:33:48,296 - INFO - 成功
+2024-03-11 10:33:48,300 - INFO - 成功
+2024-03-11 10:33:48,632 - INFO - 成功
+2024-03-11 10:33:49,036 - INFO - 成功
+2024-03-11 10:33:49,045 - INFO - 成功
+2024-03-11 10:33:49,063 - INFO - 成功
+2024-03-11 10:33:49,246 - INFO - 成功
+2024-03-11 10:33:49,350 - INFO - 成功
+2024-03-11 10:33:49,445 - INFO - 成功
+2024-03-11 10:33:50,087 - INFO - 成功
+2024-03-11 10:33:51,071 - INFO - 成功
+2024-03-11 10:33:51,194 - INFO - 成功
+2024-03-11 10:33:51,401 - INFO - 成功
+2024-03-11 10:33:51,413 - INFO - 成功
+2024-03-11 10:33:51,602 - INFO - 成功
+2024-03-11 10:33:51,783 - INFO - 成功
+2024-03-11 10:33:51,955 - INFO - 成功
+2024-03-11 10:33:51,993 - INFO - 成功
+2024-03-11 10:33:52,337 - INFO - 成功
+2024-03-11 10:33:52,358 - INFO - 成功
+2024-03-11 10:33:52,370 - INFO - 成功
+2024-03-11 10:33:53,240 - INFO - 成功
+2024-03-11 10:33:53,546 - INFO - 成功
+2024-03-11 10:33:53,881 - INFO - 成功
+2024-03-11 10:33:54,471 - INFO - 成功
+2024-03-11 10:33:54,786 - INFO - 成功
+2024-03-11 10:33:55,772 - INFO - 成功
+2024-03-11 10:33:55,947 - INFO - 成功
+2024-03-11 10:33:56,150 - INFO - 成功
+2024-03-11 10:33:56,429 - INFO - 成功
+2024-03-11 10:33:56,884 - INFO - 成功
+2024-03-11 10:33:57,206 - INFO - 成功
+2024-03-11 10:33:57,460 - INFO - 成功
+2024-03-11 10:33:57,553 - INFO - 成功
+2024-03-11 10:33:57,556 - INFO - 成功
+2024-03-11 10:33:58,011 - INFO - 成功
+2024-03-11 10:33:58,435 - INFO - 成功
+2024-03-11 10:33:58,636 - INFO - 成功
+2024-03-11 10:34:00,792 - INFO - 成功
+2024-03-11 10:34:01,416 - INFO - 成功
+2024-03-11 10:34:02,243 - INFO - 成功
+2024-03-11 10:34:02,537 - INFO - 成功
+2024-03-11 10:34:03,033 - INFO - 成功
+2024-03-11 10:34:03,459 - INFO - 成功
+2024-03-11 10:34:03,633 - INFO - 成功
+2024-03-11 10:34:03,730 - INFO - 成功
+2024-03-11 10:34:04,013 - INFO - 成功
+2024-03-11 10:34:04,353 - INFO - 成功
+2024-03-11 10:34:04,382 - INFO - 成功
+2024-03-11 10:34:05,098 - INFO - 成功
+2024-03-11 10:34:05,706 - INFO - 成功
+2024-03-11 10:34:06,149 - INFO - 成功
+2024-03-11 10:34:06,578 - INFO - 成功
+2024-03-11 10:34:07,428 - INFO - 成功
+2024-03-11 10:34:07,428 - INFO - 成功
+2024-03-11 10:34:07,993 - INFO - 成功
+2024-03-11 10:34:08,023 - INFO - 成功
+2024-03-11 10:34:08,610 - INFO - 成功
+2024-03-11 10:34:08,901 - INFO - 成功
+2024-03-11 10:34:08,919 - INFO - 成功
+2024-03-11 10:34:09,591 - INFO - 成功
+2024-03-11 10:34:09,600 - INFO - 成功
+2024-03-11 10:34:09,606 - INFO - 成功
+2024-03-11 10:34:09,616 - INFO - 成功
+2024-03-11 10:34:09,776 - INFO - 成功
+2024-03-11 10:34:10,230 - INFO - 成功
+2024-03-11 10:34:10,386 - INFO - 成功
+2024-03-11 10:34:10,589 - INFO - 成功
+2024-03-11 10:34:11,277 - INFO - 成功
+2024-03-11 10:34:11,722 - INFO - 成功
+2024-03-11 10:34:12,217 - INFO - 成功
+2024-03-11 10:34:12,467 - INFO - 成功
+2024-03-11 10:34:13,126 - INFO - 成功
+2024-03-11 10:34:13,395 - INFO - 成功
+2024-03-11 10:34:13,465 - INFO - 成功
+2024-03-11 10:34:14,308 - INFO - 成功
+2024-03-11 10:34:14,780 - INFO - 成功
+2024-03-11 10:34:14,896 - INFO - 成功
+2024-03-11 10:34:15,065 - INFO - 成功
+2024-03-11 10:34:15,080 - INFO - 成功
+2024-03-11 10:34:15,596 - INFO - 成功
+2024-03-11 10:34:15,833 - INFO - 成功
+2024-03-11 10:34:16,171 - INFO - 成功
+2024-03-11 10:34:17,105 - INFO - 成功
+2024-03-11 10:34:17,329 - INFO - 成功
+2024-03-11 10:34:17,936 - INFO - 成功
+2024-03-11 10:34:18,355 - INFO - 成功
+2024-03-11 10:34:18,605 - INFO - 成功
+2024-03-11 10:34:19,074 - INFO - 成功
+2024-03-11 10:34:19,641 - INFO - 成功
+2024-03-11 10:34:20,318 - INFO - 成功
+2024-03-11 10:34:20,329 - INFO - 成功
+2024-03-11 10:34:20,560 - INFO - 成功
+2024-03-11 11:29:24,668 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 11:29:25,136 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 11:29:25,877 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 11:29:31,912 - INFO - 成功
+2024-03-11 11:29:32,929 - INFO - 成功
+2024-03-11 11:29:33,443 - INFO - 成功
+2024-03-11 11:29:33,575 - INFO - 成功
+2024-03-11 11:29:34,337 - INFO - 成功
+2024-03-11 11:29:34,968 - INFO - 成功
+2024-03-11 11:29:35,029 - INFO - 成功
+2024-03-11 11:29:35,128 - INFO - 成功
+2024-03-11 11:29:35,880 - INFO - 成功
+2024-03-11 11:29:36,167 - INFO - 成功
+2024-03-11 11:29:36,338 - INFO - 成功
+2024-03-11 11:29:36,500 - INFO - 成功
+2024-03-11 11:29:36,528 - INFO - 成功
+2024-03-11 11:29:36,583 - INFO - 成功
+2024-03-11 11:29:36,626 - INFO - 成功
+2024-03-11 11:29:36,646 - INFO - 成功
+2024-03-11 11:29:36,722 - INFO - 成功
+2024-03-11 11:29:36,722 - INFO - 成功
+2024-03-11 11:29:36,741 - INFO - 成功
+2024-03-11 11:29:45,167 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:45,167 - INFO - 成功
+2024-03-11 11:29:45,436 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:45,436 - INFO - 成功
+2024-03-11 11:29:45,447 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:45,447 - INFO - 成功
+2024-03-11 11:29:46,395 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:46,395 - INFO - 成功
+2024-03-11 11:29:47,558 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:47,559 - INFO - 成功
+2024-03-11 11:29:47,792 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:47,792 - INFO - 成功
+2024-03-11 11:29:48,995 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:48,995 - INFO - 成功
+2024-03-11 11:29:49,093 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:49,094 - INFO - 成功
+2024-03-11 11:29:49,270 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:49,270 - INFO - 成功
+2024-03-11 11:29:50,395 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:50,395 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:50,395 - INFO - 成功
+2024-03-11 11:29:50,395 - INFO - 成功
+2024-03-11 11:29:50,406 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:50,406 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:50,406 - INFO - 成功
+2024-03-11 11:29:50,406 - INFO - 成功
+2024-03-11 11:29:51,463 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:51,463 - INFO - 成功
+2024-03-11 11:29:51,871 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:51,871 - INFO - 成功
+2024-03-11 11:29:51,898 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:51,898 - INFO - 成功
+2024-03-11 11:29:51,928 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:51,928 - INFO - 成功
+2024-03-11 11:29:52,175 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:52,175 - INFO - 成功
+2024-03-11 11:29:52,647 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:52,647 - INFO - 成功
+2024-03-11 11:29:52,662 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:52,662 - INFO - 成功
+2024-03-11 11:29:52,917 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:52,917 - INFO - 成功
+2024-03-11 11:29:52,925 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:52,925 - INFO - 成功
+2024-03-11 11:29:53,153 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:53,153 - INFO - 成功
+2024-03-11 11:29:53,784 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:53,784 - INFO - 成功
+2024-03-11 11:29:54,122 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:54,122 - INFO - 成功
+2024-03-11 11:29:54,364 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:54,364 - INFO - 成功
+2024-03-11 11:29:54,374 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:54,374 - INFO - 成功
+2024-03-11 11:29:54,643 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:54,643 - INFO - 成功
+2024-03-11 11:29:54,668 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:54,668 - INFO - 成功
+2024-03-11 11:29:55,425 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:55,425 - INFO - 成功
+2024-03-11 11:29:55,457 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:55,457 - INFO - 成功
+2024-03-11 11:29:55,665 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:55,665 - INFO - 成功
+2024-03-11 11:29:55,887 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:55,888 - INFO - 成功
+2024-03-11 11:29:55,905 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:55,905 - INFO - 成功
+2024-03-11 11:29:55,930 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:55,931 - INFO - 成功
+2024-03-11 11:29:56,329 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:56,329 - INFO - 成功
+2024-03-11 11:29:56,708 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:56,709 - INFO - 成功
+2024-03-11 11:29:57,063 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:57,063 - INFO - 成功
+2024-03-11 11:29:57,090 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:57,090 - INFO - 成功
+2024-03-11 11:29:57,743 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:57,743 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:57,744 - INFO - 成功
+2024-03-11 11:29:57,744 - INFO - 成功
+2024-03-11 11:29:57,747 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:57,747 - INFO - 成功
+2024-03-11 11:29:58,116 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:58,116 - INFO - 成功
+2024-03-11 11:29:58,124 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:58,124 - INFO - 成功
+2024-03-11 11:29:58,140 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:58,140 - INFO - 成功
+2024-03-11 11:29:58,347 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:58,347 - INFO - 成功
+2024-03-11 11:29:58,469 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:58,472 - INFO - 成功
+2024-03-11 11:29:59,068 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:59,069 - INFO - 成功
+2024-03-11 11:29:59,243 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:59,243 - INFO - 成功
+2024-03-11 11:29:59,415 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:59,415 - INFO - 成功
+2024-03-11 11:29:59,440 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:59,440 - INFO - 成功
+2024-03-11 11:29:59,455 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:29:59,455 - INFO - 成功
+2024-03-11 11:30:00,020 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:00,020 - INFO - 成功
+2024-03-11 11:30:00,215 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:00,215 - INFO - 成功
+2024-03-11 11:30:00,826 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:00,826 - INFO - 成功
+2024-03-11 11:30:01,613 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:01,613 - INFO - 成功
+2024-03-11 11:30:01,977 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:01,977 - INFO - 成功
+2024-03-11 11:30:02,488 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:02,488 - INFO - 成功
+2024-03-11 11:30:02,622 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:02,622 - INFO - 成功
+2024-03-11 11:30:03,077 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:03,077 - INFO - 成功
+2024-03-11 11:30:03,271 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:03,271 - INFO - 成功
+2024-03-11 11:30:03,938 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:03,938 - INFO - 成功
+2024-03-11 11:30:04,551 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:04,552 - INFO - 成功
+2024-03-11 11:30:05,227 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:05,227 - INFO - 成功
+2024-03-11 11:30:06,325 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:06,325 - INFO - 成功
+2024-03-11 11:30:06,796 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:06,796 - INFO - 成功
+2024-03-11 11:30:06,904 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:06,904 - INFO - 成功
+2024-03-11 11:30:06,981 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:06,982 - INFO - 成功
+2024-03-11 11:30:07,817 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:07,817 - INFO - 成功
+2024-03-11 11:30:07,968 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:07,968 - INFO - 成功
+2024-03-11 11:30:08,577 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:08,577 - INFO - 成功
+2024-03-11 11:30:08,961 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:08,961 - INFO - 成功
+2024-03-11 11:30:08,964 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:08,964 - INFO - 成功
+2024-03-11 11:30:09,174 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:09,174 - INFO - 成功
+2024-03-11 11:30:09,829 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:09,829 - INFO - 成功
+2024-03-11 11:30:09,936 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:09,936 - INFO - 成功
+2024-03-11 11:30:10,103 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:10,103 - INFO - 成功
+2024-03-11 11:30:10,828 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:10,828 - INFO - 成功
+2024-03-11 11:30:11,199 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:11,199 - INFO - 成功
+2024-03-11 11:30:11,792 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:11,792 - INFO - 成功
+2024-03-11 11:30:11,930 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:11,931 - INFO - 成功
+2024-03-11 11:30:12,125 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:12,125 - INFO - 成功
+2024-03-11 11:30:12,314 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:12,314 - INFO - 成功
+2024-03-11 11:30:12,780 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:12,780 - INFO - 成功
+2024-03-11 11:30:13,034 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:13,034 - INFO - 成功
+2024-03-11 11:30:13,355 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:13,355 - INFO - 成功
+2024-03-11 11:30:13,514 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:13,515 - INFO - 成功
+2024-03-11 11:30:14,232 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:14,233 - INFO - 成功
+2024-03-11 11:30:14,597 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:14,597 - INFO - 成功
+2024-03-11 11:30:15,019 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:15,019 - INFO - 成功
+2024-03-11 11:30:15,059 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:15,059 - INFO - 成功
+2024-03-11 11:30:15,581 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:15,581 - INFO - 成功
+2024-03-11 11:30:16,374 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:16,374 - INFO - 成功
+2024-03-11 11:30:16,599 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:16,599 - INFO - 成功
+2024-03-11 11:30:17,233 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:17,233 - INFO - 成功
+2024-03-11 11:30:17,371 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:17,371 - INFO - 成功
+2024-03-11 11:30:17,867 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:17,867 - INFO - 成功
+2024-03-11 11:30:18,117 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:18,117 - INFO - 成功
+2024-03-11 11:30:18,588 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:18,589 - INFO - 成功
+2024-03-11 11:30:19,217 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:19,218 - INFO - 成功
+2024-03-11 11:30:19,600 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:19,600 - INFO - 成功
+2024-03-11 11:30:20,352 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:20,353 - INFO - 成功
+2024-03-11 11:30:20,551 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:20,551 - INFO - 成功
+2024-03-11 11:30:21,059 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:21,059 - INFO - 成功
+2024-03-11 11:30:21,236 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:21,237 - INFO - 成功
+2024-03-11 11:30:21,612 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:21,612 - INFO - 成功
+2024-03-11 11:30:21,871 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:21,871 - INFO - 成功
+2024-03-11 11:30:22,415 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:22,415 - INFO - 成功
+2024-03-11 11:30:23,064 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:23,064 - INFO - 成功
+2024-03-11 11:30:23,432 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:23,432 - INFO - 成功
+2024-03-11 11:30:23,436 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:23,436 - INFO - 成功
+2024-03-11 11:30:23,738 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:23,738 - INFO - 成功
+2024-03-11 11:30:24,181 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:24,181 - INFO - 成功
+2024-03-11 11:30:24,595 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:24,595 - INFO - 成功
+2024-03-11 11:30:24,864 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:24,864 - INFO - 成功
+2024-03-11 11:30:25,180 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:25,180 - INFO - 成功
+2024-03-11 11:30:25,690 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:25,690 - INFO - 成功
+2024-03-11 11:30:25,894 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:25,894 - INFO - 成功
+2024-03-11 11:30:26,264 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:26,265 - INFO - 成功
+2024-03-11 11:30:26,613 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:26,613 - INFO - 成功
+2024-03-11 11:30:26,957 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:26,958 - INFO - 成功
+2024-03-11 11:30:27,242 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:27,242 - INFO - 成功
+2024-03-11 11:30:27,720 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:27,721 - INFO - 成功
+2024-03-11 11:30:27,869 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:27,869 - INFO - 成功
+2024-03-11 11:30:28,401 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:28,401 - INFO - 成功
+2024-03-11 11:30:29,054 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:29,055 - INFO - 成功
+2024-03-11 11:30:29,411 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:29,411 - INFO - 成功
+2024-03-11 11:30:29,805 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:29,805 - INFO - 成功
+2024-03-11 11:30:30,111 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:30,111 - INFO - 成功
+2024-03-11 11:30:30,239 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:30,239 - INFO - 成功
+2024-03-11 11:30:31,152 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:31,152 - INFO - 成功
+2024-03-11 11:30:31,334 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:31,334 - INFO - 成功
+2024-03-11 11:30:31,648 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:31,648 - INFO - 成功
+2024-03-11 11:30:32,287 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:32,287 - INFO - 成功
+2024-03-11 11:30:32,481 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:32,481 - INFO - 成功
+2024-03-11 11:30:32,937 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:32,937 - INFO - 成功
+2024-03-11 11:30:33,446 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:33,446 - INFO - 成功
+2024-03-11 11:30:33,639 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:33,639 - INFO - 成功
+2024-03-11 11:30:34,293 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:34,294 - INFO - 成功
+2024-03-11 11:30:34,431 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:34,431 - INFO - 成功
+2024-03-11 11:30:35,427 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:35,428 - INFO - 成功
+2024-03-11 11:30:35,830 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:35,831 - INFO - 成功
+2024-03-11 11:30:36,237 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:36,237 - INFO - 成功
+2024-03-11 11:30:36,669 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:36,669 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:36,669 - INFO - 成功
+2024-03-11 11:30:36,670 - INFO - 成功
+2024-03-11 11:30:37,356 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:37,356 - INFO - 成功
+2024-03-11 11:30:37,557 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:37,557 - INFO - 成功
+2024-03-11 11:30:38,503 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:38,503 - INFO - 成功
+2024-03-11 11:30:38,704 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:38,704 - INFO - 成功
+2024-03-11 11:30:38,905 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:38,905 - INFO - 成功
+2024-03-11 11:30:39,086 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:39,086 - INFO - 成功
+2024-03-11 11:30:39,657 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:39,657 - INFO - 成功
+2024-03-11 11:30:39,871 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:39,872 - INFO - 成功
+2024-03-11 11:30:40,589 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:40,589 - INFO - 成功
+2024-03-11 11:30:40,624 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:40,624 - INFO - 成功
+2024-03-11 11:30:41,510 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:41,510 - INFO - 成功
+2024-03-11 11:30:41,556 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:41,556 - INFO - 成功
+2024-03-11 11:30:42,654 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:42,654 - INFO - 成功
+2024-03-11 11:30:42,833 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:42,833 - INFO - 成功
+2024-03-11 11:30:42,855 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:42,855 - INFO - 成功
+2024-03-11 11:30:42,944 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:42,944 - INFO - 成功
+2024-03-11 11:30:43,664 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:43,665 - INFO - 成功
+2024-03-11 11:30:43,951 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:43,951 - INFO - 成功
+2024-03-11 11:30:44,512 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:44,512 - INFO - 成功
+2024-03-11 11:30:44,535 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:44,535 - INFO - 成功
+2024-03-11 11:30:45,197 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:45,197 - INFO - 成功
+2024-03-11 11:30:45,534 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:45,534 - INFO - 成功
+2024-03-11 11:30:45,712 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:45,712 - INFO - 成功
+2024-03-11 11:30:46,155 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:46,156 - INFO - 成功
+2024-03-11 11:30:46,343 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:46,343 - INFO - 成功
+2024-03-11 11:30:47,103 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:47,103 - INFO - 成功
+2024-03-11 11:30:47,492 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:47,492 - INFO - 成功
+2024-03-11 11:30:47,883 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:47,883 - INFO - 成功
+2024-03-11 11:30:48,387 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:48,388 - INFO - 成功
+2024-03-11 11:30:48,497 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:48,498 - INFO - 成功
+2024-03-11 11:30:49,353 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:49,353 - INFO - 成功
+2024-03-11 11:30:49,371 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:49,371 - INFO - 成功
+2024-03-11 11:30:49,449 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:49,449 - INFO - 成功
+2024-03-11 11:30:50,081 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:50,082 - INFO - 成功
+2024-03-11 11:30:50,838 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:50,838 - INFO - 成功
+2024-03-11 11:30:51,166 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:51,166 - INFO - 成功
+2024-03-11 11:30:51,413 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:51,414 - INFO - 成功
+2024-03-11 11:30:51,564 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:51,564 - INFO - 成功
+2024-03-11 11:30:52,318 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:52,318 - INFO - 成功
+2024-03-11 11:30:52,574 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:52,574 - INFO - 成功
+2024-03-11 11:30:53,474 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:53,474 - INFO - 成功
+2024-03-11 11:30:53,631 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:53,631 - INFO - 成功
+2024-03-11 11:30:54,357 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:54,360 - INFO - 成功
+2024-03-11 11:30:54,585 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:54,585 - INFO - 成功
+2024-03-11 11:30:54,694 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:54,694 - INFO - 成功
+2024-03-11 11:30:55,594 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:55,594 - INFO - 成功
+2024-03-11 11:30:56,319 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:56,319 - INFO - 成功
+2024-03-11 11:30:57,139 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:57,139 - INFO - 成功
+2024-03-11 11:30:57,675 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:57,675 - INFO - 成功
+2024-03-11 11:30:58,792 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:58,792 - INFO - 成功
+2024-03-11 11:30:59,477 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:30:59,477 - INFO - 成功
+2024-03-11 11:31:00,249 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:00,250 - INFO - 成功
+2024-03-11 11:31:00,266 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:00,266 - INFO - 成功
+2024-03-11 11:31:00,981 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:00,982 - INFO - 成功
+2024-03-11 11:31:01,265 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:01,265 - INFO - 成功
+2024-03-11 11:31:01,936 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:01,937 - INFO - 成功
+2024-03-11 11:31:02,075 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:02,075 - INFO - 成功
+2024-03-11 11:31:03,190 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:03,191 - INFO - 成功
+2024-03-11 11:31:03,318 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:03,318 - INFO - 成功
+2024-03-11 11:31:03,788 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:03,788 - INFO - 成功
+2024-03-11 11:31:04,422 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:04,422 - INFO - 成功
+2024-03-11 11:31:05,099 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:05,099 - INFO - 成功
+2024-03-11 11:31:05,676 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:05,676 - INFO - 成功
+2024-03-11 11:31:06,377 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:06,377 - INFO - 成功
+2024-03-11 11:31:06,391 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:06,391 - INFO - 成功
+2024-03-11 11:31:07,065 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:07,066 - INFO - 成功
+2024-03-11 11:31:07,596 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:07,596 - INFO - 成功
+2024-03-11 11:31:08,357 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:08,357 - INFO - 成功
+2024-03-11 11:31:08,426 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:08,426 - INFO - 成功
+2024-03-11 11:31:08,483 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:08,483 - INFO - 成功
+2024-03-11 11:31:08,693 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:08,693 - INFO - 成功
+2024-03-11 11:31:09,458 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:09,458 - INFO - 成功
+2024-03-11 11:31:09,602 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:09,603 - INFO - 成功
+2024-03-11 11:31:09,611 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:09,611 - INFO - 成功
+2024-03-11 11:31:09,621 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:09,621 - INFO - 成功
+2024-03-11 11:31:09,702 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:09,702 - INFO - 成功
+2024-03-11 11:31:09,736 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:09,736 - INFO - 成功
+2024-03-11 11:31:14,109 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:14,109 - INFO - 成功
+2024-03-11 11:31:14,610 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:14,610 - INFO - 成功
+2024-03-11 11:31:15,032 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:15,032 - INFO - 成功
+2024-03-11 11:31:15,302 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:15,302 - INFO - 成功
+2024-03-11 11:31:15,314 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:15,314 - INFO - 成功
+2024-03-11 11:31:15,471 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:15,471 - INFO - 成功
+2024-03-11 11:31:15,746 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:15,746 - INFO - 成功
+2024-03-11 11:31:18,970 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:18,970 - INFO - 成功
+2024-03-11 11:31:19,687 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:19,687 - INFO - 成功
+2024-03-11 11:31:23,160 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:23,160 - INFO - 成功
+2024-03-11 11:31:23,718 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:23,718 - INFO - 成功
+2024-03-11 11:31:31,467 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:31,467 - INFO - 成功
+2024-03-11 11:31:32,032 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:32,033 - INFO - 成功
+2024-03-11 11:31:32,965 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:32,965 - INFO - 成功
+2024-03-11 11:31:33,500 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:33,501 - INFO - 成功
+2024-03-11 11:31:33,521 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:33,521 - INFO - 成功
+2024-03-11 11:31:34,387 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:34,387 - INFO - 成功
+2024-03-11 11:31:35,544 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:35,544 - INFO - 成功
+2024-03-11 11:31:35,742 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:35,743 - INFO - 成功
+2024-03-11 11:31:36,457 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:36,457 - INFO - 成功
+2024-03-11 11:31:36,847 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:36,848 - INFO - 成功
+2024-03-11 11:31:37,115 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:37,116 - INFO - 成功
+2024-03-11 11:31:37,213 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:37,213 - INFO - 成功
+2024-03-11 11:31:37,372 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:37,372 - INFO - 成功
+2024-03-11 11:31:37,466 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:37,467 - INFO - 成功
+2024-03-11 11:31:37,638 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:37,638 - INFO - 成功
+2024-03-11 11:31:39,104 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:39,104 - INFO - 成功
+2024-03-11 11:31:39,228 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:39,228 - INFO - 成功
+2024-03-11 11:31:40,004 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,004 - INFO - 成功
+2024-03-11 11:31:40,008 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,008 - INFO - 成功
+2024-03-11 11:31:40,394 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,394 - INFO - 成功
+2024-03-11 11:31:40,410 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,410 - INFO - 成功
+2024-03-11 11:31:40,415 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,415 - INFO - 成功
+2024-03-11 11:31:40,525 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,525 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,525 - INFO - 成功
+2024-03-11 11:31:40,525 - INFO - 成功
+2024-03-11 11:31:40,559 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:40,559 - INFO - 成功
+2024-03-11 11:31:42,104 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:42,104 - INFO - 成功
+2024-03-11 11:31:42,117 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:42,118 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:42,118 - INFO - 成功
+2024-03-11 11:31:42,118 - INFO - 成功
+2024-03-11 11:31:42,309 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:42,310 - INFO - 成功
+2024-03-11 11:31:42,315 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:42,315 - INFO - 成功
+2024-03-11 11:31:42,840 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:42,840 - INFO - 成功
+2024-03-11 11:31:43,002 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:43,002 - INFO - 成功
+2024-03-11 11:31:43,166 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:43,166 - INFO - 成功
+2024-03-11 11:31:43,436 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:43,436 - INFO - 成功
+2024-03-11 11:31:43,463 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:43,463 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:43,463 - INFO - 成功
+2024-03-11 11:31:43,463 - INFO - 成功
+2024-03-11 11:31:43,923 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:43,923 - INFO - 成功
+2024-03-11 11:31:43,933 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:43,933 - INFO - 成功
+2024-03-11 11:31:44,173 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:44,173 - INFO - 成功
+2024-03-11 11:31:44,782 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:44,782 - INFO - 成功
+2024-03-11 11:31:44,951 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:44,951 - INFO - 成功
+2024-03-11 11:31:44,979 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:44,979 - INFO - 成功
+2024-03-11 11:31:45,825 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:45,825 - INFO - 成功
+2024-03-11 11:31:45,829 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:45,829 - INFO - 成功
+2024-03-11 11:31:46,386 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:46,386 - INFO - 成功
+2024-03-11 11:31:46,590 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:46,590 - INFO - 成功
+2024-03-11 11:31:46,909 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:46,910 - INFO - 成功
+2024-03-11 11:31:46,971 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:46,971 - INFO - 成功
+2024-03-11 11:31:47,084 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:47,084 - INFO - 成功
+2024-03-11 11:31:47,180 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:47,180 - INFO - 成功
+2024-03-11 11:31:47,351 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:47,352 - INFO - 成功
+2024-03-11 11:31:47,607 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:47,607 - INFO - 成功
+2024-03-11 11:31:47,979 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:47,979 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:47,979 - INFO - 成功
+2024-03-11 11:31:47,979 - INFO - 成功
+2024-03-11 11:31:48,103 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:48,104 - INFO - 成功
+2024-03-11 11:31:49,298 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:49,298 - INFO - 成功
+2024-03-11 11:31:49,524 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:49,524 - INFO - 成功
+2024-03-11 11:31:50,956 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:50,956 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:50,956 - INFO - 成功
+2024-03-11 11:31:50,956 - INFO - 成功
+2024-03-11 11:31:51,305 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:51,305 - INFO - 成功
+2024-03-11 11:31:51,319 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:51,320 - INFO - 成功
+2024-03-11 11:31:51,433 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:51,433 - INFO - 成功
+2024-03-11 11:31:52,124 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:52,124 - INFO - 成功
+2024-03-11 11:31:52,139 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:52,139 - INFO - 成功
+2024-03-11 11:31:52,146 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:52,147 - INFO - 成功
+2024-03-11 11:31:52,307 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:52,307 - INFO - 成功
+2024-03-11 11:31:52,500 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:31:52,500 - INFO - 成功
+2024-03-11 11:32:00,449 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:00,450 - INFO - 成功
+2024-03-11 11:32:01,108 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:01,108 - INFO - 成功
+2024-03-11 11:32:01,313 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:01,313 - INFO - 成功
+2024-03-11 11:32:01,995 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:01,995 - INFO - 成功
+2024-03-11 11:32:02,975 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:02,975 - INFO - 成功
+2024-03-11 11:32:03,233 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:03,233 - INFO - 成功
+2024-03-11 11:32:03,642 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:03,642 - INFO - 成功
+2024-03-11 11:32:03,654 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:03,654 - INFO - 成功
+2024-03-11 11:32:04,436 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:04,437 - INFO - 成功
+2024-03-11 11:32:04,612 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:04,612 - INFO - 成功
+2024-03-11 11:32:05,533 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:05,534 - INFO - 成功
+2024-03-11 11:32:05,719 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:05,719 - INFO - 成功
+2024-03-11 11:32:05,759 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:05,759 - INFO - 成功
+2024-03-11 11:32:06,136 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:06,137 - INFO - 成功
+2024-03-11 11:32:07,356 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:07,356 - INFO - 成功
+2024-03-11 11:32:07,370 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:07,370 - INFO - 成功
+2024-03-11 11:32:07,393 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:07,394 - INFO - 成功
+2024-03-11 11:32:07,483 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:07,484 - INFO - 成功
+2024-03-11 11:32:08,289 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:08,289 - INFO - 成功
+2024-03-11 11:32:08,293 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:08,293 - INFO - 成功
+2024-03-11 11:32:08,722 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:08,722 - INFO - 成功
+2024-03-11 11:32:08,726 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:08,728 - INFO - 成功
+2024-03-11 11:32:08,925 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:08,925 - INFO - 成功
+2024-03-11 11:32:09,371 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:09,371 - INFO - 成功
+2024-03-11 11:32:09,400 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:09,400 - INFO - 成功
+2024-03-11 11:32:09,579 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:09,580 - INFO - 成功
+2024-03-11 11:32:09,770 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:09,770 - INFO - 成功
+2024-03-11 11:32:10,217 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:10,217 - INFO - 成功
+2024-03-11 11:32:10,923 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:10,923 - INFO - 成功
+2024-03-11 11:32:11,038 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:11,038 - INFO - 成功
+2024-03-11 11:32:11,190 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:11,190 - INFO - 成功
+2024-03-11 11:32:11,194 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:11,194 - INFO - 成功
+2024-03-11 11:32:11,317 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:11,317 - INFO - 成功
+2024-03-11 11:32:11,375 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:11,375 - INFO - 成功
+2024-03-11 11:32:11,597 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:11,597 - INFO - 成功
+2024-03-11 11:32:12,495 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:12,496 - INFO - 成功
+2024-03-11 11:32:12,818 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:12,818 - INFO - 成功
+2024-03-11 11:32:12,819 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:12,819 - INFO - 成功
+2024-03-11 11:32:13,004 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:13,004 - INFO - 成功
+2024-03-11 11:32:13,020 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:13,020 - INFO - 成功
+2024-03-11 11:32:13,371 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:13,371 - INFO - 成功
+2024-03-11 11:32:13,554 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:13,555 - INFO - 成功
+2024-03-11 11:32:13,773 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:13,773 - INFO - 成功
+2024-03-11 11:32:14,280 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:14,280 - INFO - 成功
+2024-03-11 11:32:15,403 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:15,403 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:15,403 - INFO - 成功
+2024-03-11 11:32:15,403 - INFO - 成功
+2024-03-11 11:32:16,096 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,096 - INFO - 成功
+2024-03-11 11:32:16,296 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,296 - INFO - 成功
+2024-03-11 11:32:16,300 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,300 - INFO - 成功
+2024-03-11 11:32:16,384 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,384 - INFO - 成功
+2024-03-11 11:32:16,607 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,607 - INFO - 成功
+2024-03-11 11:32:16,838 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,838 - INFO - 成功
+2024-03-11 11:32:16,885 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,885 - INFO - 成功
+2024-03-11 11:32:16,989 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:16,989 - INFO - 成功
+2024-03-11 11:32:17,539 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:17,539 - INFO - 成功
+2024-03-11 11:32:25,639 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:25,640 - INFO - 成功
+2024-03-11 11:32:25,868 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:25,869 - INFO - 成功
+2024-03-11 11:32:26,832 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:26,832 - INFO - 成功
+2024-03-11 11:32:27,992 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:27,992 - INFO - 成功
+2024-03-11 11:32:28,331 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:28,331 - INFO - 成功
+2024-03-11 11:32:28,337 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:28,337 - INFO - 成功
+2024-03-11 11:32:28,481 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:28,481 - INFO - 成功
+2024-03-11 11:32:29,133 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:29,133 - INFO - 成功
+2024-03-11 11:32:30,546 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:30,546 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:30,546 - INFO - 成功
+2024-03-11 11:32:30,546 - INFO - 成功
+2024-03-11 11:32:30,580 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:30,581 - INFO - 成功
+2024-03-11 11:32:30,671 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:30,671 - INFO - 成功
+2024-03-11 11:32:30,694 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:30,694 - INFO - 成功
+2024-03-11 11:32:31,965 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:31,965 - INFO - 成功
+2024-03-11 11:32:32,135 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:32,136 - INFO - 成功
+2024-03-11 11:32:32,861 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:32,861 - INFO - 成功
+2024-03-11 11:32:33,408 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:33,408 - INFO - 成功
+2024-03-11 11:32:33,529 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:33,529 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:33,530 - INFO - 成功
+2024-03-11 11:32:33,530 - INFO - 成功
+2024-03-11 11:32:33,606 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:33,607 - INFO - 成功
+2024-03-11 11:32:33,641 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:33,642 - INFO - 成功
+2024-03-11 11:32:34,629 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:34,629 - INFO - 成功
+2024-03-11 11:32:34,753 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:34,753 - INFO - 成功
+2024-03-11 11:32:35,029 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:35,029 - INFO - 成功
+2024-03-11 11:32:35,035 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:35,035 - INFO - 成功
+2024-03-11 11:32:35,040 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:35,040 - INFO - 成功
+2024-03-11 11:32:35,176 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:35,176 - INFO - 成功
+2024-03-11 11:32:35,201 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:35,201 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:35,201 - INFO - 成功
+2024-03-11 11:32:35,202 - INFO - 成功
+2024-03-11 11:32:35,861 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:35,862 - INFO - 成功
+2024-03-11 11:32:36,073 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:36,073 - INFO - 成功
+2024-03-11 11:32:36,187 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:36,188 - INFO - 成功
+2024-03-11 11:32:36,806 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:36,807 - INFO - 成功
+2024-03-11 11:32:37,472 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:37,472 - INFO - 成功
+2024-03-11 11:32:37,630 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:37,630 - INFO - 成功
+2024-03-11 11:32:37,636 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:37,636 - INFO - 成功
+2024-03-11 11:32:37,759 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:37,759 - INFO - 成功
+2024-03-11 11:32:37,941 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:37,941 - INFO - 成功
+2024-03-11 11:32:38,184 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:38,184 - INFO - 成功
+2024-03-11 11:32:38,198 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:38,198 - INFO - 成功
+2024-03-11 11:32:38,590 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:38,590 - INFO - 成功
+2024-03-11 11:32:38,704 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:38,704 - INFO - 成功
+2024-03-11 11:32:38,808 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:38,808 - INFO - 成功
+2024-03-11 11:32:39,043 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:39,043 - INFO - 成功
+2024-03-11 11:32:39,774 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:39,775 - INFO - 成功
+2024-03-11 11:32:39,913 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:39,915 - INFO - 成功
+2024-03-11 11:32:39,933 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:39,933 - INFO - 成功
+2024-03-11 11:32:40,066 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:40,066 - INFO - 成功
+2024-03-11 11:32:40,358 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:40,358 - INFO - 成功
+2024-03-11 11:32:40,948 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:40,948 - INFO - 成功
+2024-03-11 11:32:41,120 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:41,120 - INFO - 成功
+2024-03-11 11:32:41,924 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:41,924 - INFO - 成功
+2024-03-11 11:32:42,289 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:42,289 - INFO - 成功
+2024-03-11 11:32:42,777 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:42,777 - INFO - 成功
+2024-03-11 11:32:43,136 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:43,136 - INFO - 成功
+2024-03-11 11:32:43,291 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:43,291 - INFO - 成功
+2024-03-11 11:32:43,871 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:43,872 - INFO - 成功
+2024-03-11 11:32:44,163 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:44,163 - INFO - 成功
+2024-03-11 11:32:44,748 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:44,748 - INFO - 成功
+2024-03-11 11:32:44,987 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:44,988 - INFO - 成功
+2024-03-11 11:32:45,416 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:45,416 - INFO - 成功
+2024-03-11 11:32:46,017 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:46,018 - INFO - 成功
+2024-03-11 11:32:46,275 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:46,275 - INFO - 成功
+2024-03-11 11:32:46,971 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:46,972 - INFO - 成功
+2024-03-11 11:32:47,663 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:47,663 - INFO - 成功
+2024-03-11 11:32:47,980 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:47,980 - INFO - 成功
+2024-03-11 11:32:48,637 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:48,637 - INFO - 成功
+2024-03-11 11:32:48,797 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:48,797 - INFO - 成功
+2024-03-11 11:32:48,923 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:48,923 - INFO - 成功
+2024-03-11 11:32:49,584 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:49,584 - INFO - 成功
+2024-03-11 11:32:49,762 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:49,762 - INFO - 成功
+2024-03-11 11:32:50,289 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:50,290 - INFO - 成功
+2024-03-11 11:32:50,424 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:50,424 - INFO - 成功
+2024-03-11 11:32:51,090 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:51,091 - INFO - 成功
+2024-03-11 11:32:51,579 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:51,579 - INFO - 成功
+2024-03-11 11:32:51,983 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:51,984 - INFO - 成功
+2024-03-11 11:32:52,013 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:52,014 - INFO - 成功
+2024-03-11 11:32:52,249 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:52,249 - INFO - 成功
+2024-03-11 11:32:52,468 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:52,468 - INFO - 成功
+2024-03-11 11:32:52,888 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:52,888 - INFO - 成功
+2024-03-11 11:32:53,812 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:53,813 - INFO - 成功
+2024-03-11 11:32:54,295 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:54,295 - INFO - 成功
+2024-03-11 11:32:55,042 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:55,042 - INFO - 成功
+2024-03-11 11:32:55,052 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:55,052 - INFO - 成功
+2024-03-11 11:32:55,208 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:55,209 - INFO - 成功
+2024-03-11 11:32:55,785 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:55,785 - INFO - 成功
+2024-03-11 11:32:56,272 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:56,272 - INFO - 成功
+2024-03-11 11:32:56,600 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:56,600 - INFO - 成功
+2024-03-11 11:32:56,617 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:56,617 - INFO - 成功
+2024-03-11 11:32:56,626 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:56,627 - INFO - 成功
+2024-03-11 11:32:56,636 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:56,636 - INFO - 成功
+2024-03-11 11:32:56,771 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:32:56,771 - INFO - 成功
+2024-03-11 11:33:01,530 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:01,530 - INFO - 成功
+2024-03-11 11:33:02,400 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:02,400 - INFO - 成功
+2024-03-11 11:33:03,226 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:03,226 - INFO - 成功
+2024-03-11 11:33:07,078 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:07,078 - INFO - 成功
+2024-03-11 11:33:07,608 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:07,608 - INFO - 成功
+2024-03-11 11:33:08,034 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:08,034 - INFO - 成功
+2024-03-11 11:33:08,258 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:08,258 - INFO - 成功
+2024-03-11 11:33:08,268 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:08,268 - INFO - 成功
+2024-03-11 11:33:08,421 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:08,421 - INFO - 成功
+2024-03-11 11:33:12,722 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:12,722 - INFO - 成功
+2024-03-11 11:33:13,350 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:13,350 - INFO - 成功
+2024-03-11 11:33:13,944 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:13,944 - INFO - 成功
+2024-03-11 11:33:13,971 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:13,971 - INFO - 成功
+2024-03-11 11:33:14,333 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:14,334 - INFO - 成功
+2024-03-11 11:33:14,482 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:14,482 - INFO - 成功
+2024-03-11 11:33:14,492 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:14,493 - INFO - 成功
+2024-03-11 11:33:14,598 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:14,598 - INFO - 成功
+2024-03-11 11:33:23,158 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:23,158 - INFO - 成功
+2024-03-11 11:33:23,875 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:23,876 - INFO - 成功
+2024-03-11 11:33:24,061 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:24,062 - INFO - 成功
+2024-03-11 11:33:25,115 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:25,115 - INFO - 成功
+2024-03-11 11:33:26,025 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:26,025 - INFO - 成功
+2024-03-11 11:33:26,188 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:26,189 - INFO - 成功
+2024-03-11 11:33:26,934 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:26,935 - INFO - 成功
+2024-03-11 11:33:27,102 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:27,102 - INFO - 成功
+2024-03-11 11:33:27,481 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:27,481 - INFO - 成功
+2024-03-11 11:33:28,060 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:28,060 - INFO - 成功
+2024-03-11 11:33:28,622 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:28,622 - INFO - 成功
+2024-03-11 11:33:28,633 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:28,633 - INFO - 成功
+2024-03-11 11:33:29,402 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:29,403 - INFO - 成功
+2024-03-11 11:33:29,980 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:29,980 - INFO - 成功
+2024-03-11 11:33:30,577 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:30,577 - INFO - 成功
+2024-03-11 11:33:30,689 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:30,689 - INFO - 成功
+2024-03-11 11:33:30,854 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:30,854 - INFO - 成功
+2024-03-11 11:33:31,879 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:31,879 - INFO - 成功
+2024-03-11 11:33:31,899 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:31,899 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:31,899 - INFO - 成功
+2024-03-11 11:33:31,899 - INFO - 成功
+2024-03-11 11:33:31,967 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:31,968 - INFO - 成功
+2024-03-11 11:33:32,392 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:32,392 - INFO - 成功
+2024-03-11 11:33:32,393 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:32,393 - INFO - 成功
+2024-03-11 11:33:32,526 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:32,527 - INFO - 成功
+2024-03-11 11:33:32,856 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:32,857 - INFO - 成功
+2024-03-11 11:33:33,286 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:33,286 - INFO - 成功
+2024-03-11 11:33:33,309 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:33,309 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:33,309 - INFO - 成功
+2024-03-11 11:33:33,309 - INFO - 成功
+2024-03-11 11:33:33,598 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:33,598 - INFO - 成功
+2024-03-11 11:33:33,603 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:33,603 - INFO - 成功
+2024-03-11 11:33:34,223 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:34,223 - INFO - 成功
+2024-03-11 11:33:34,243 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:34,243 - INFO - 成功
+2024-03-11 11:33:34,796 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:34,796 - INFO - 成功
+2024-03-11 11:33:35,081 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:35,081 - INFO - 成功
+2024-03-11 11:33:35,789 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:35,789 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:35,790 - INFO - 成功
+2024-03-11 11:33:35,790 - INFO - 成功
+2024-03-11 11:33:35,955 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:35,956 - INFO - 成功
+2024-03-11 11:33:35,972 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:35,972 - INFO - 成功
+2024-03-11 11:33:36,419 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:36,419 - INFO - 成功
+2024-03-11 11:33:36,420 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:36,420 - INFO - 成功
+2024-03-11 11:33:36,429 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:36,429 - INFO - 成功
+2024-03-11 11:33:36,914 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:36,914 - INFO - 成功
+2024-03-11 11:33:36,920 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:36,920 - INFO - 成功
+2024-03-11 11:33:37,587 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:37,587 - INFO - 成功
+2024-03-11 11:33:37,696 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:37,696 - INFO - 成功
+2024-03-11 11:33:37,702 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:37,703 - INFO - 成功
+2024-03-11 11:33:37,792 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:37,793 - INFO - 成功
+2024-03-11 11:33:39,041 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:39,041 - INFO - 成功
+2024-03-11 11:33:39,499 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:39,500 - INFO - 成功
+2024-03-11 11:33:39,633 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:39,634 - INFO - 成功
+2024-03-11 11:33:39,705 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:39,705 - INFO - 成功
+2024-03-11 11:33:40,221 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:40,221 - INFO - 成功
+2024-03-11 11:33:40,602 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:40,602 - INFO - 成功
+2024-03-11 11:33:40,920 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:40,920 - INFO - 成功
+2024-03-11 11:33:41,421 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:41,422 - INFO - 成功
+2024-03-11 11:33:42,819 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:42,819 - INFO - 成功
+2024-03-11 11:33:42,839 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:42,839 - INFO - 成功
+2024-03-11 11:33:42,974 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:42,974 - INFO - 成功
+2024-03-11 11:33:42,978 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:42,978 - INFO - 成功
+2024-03-11 11:33:43,268 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:43,268 - INFO - 成功
+2024-03-11 11:33:43,455 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:43,456 - INFO - 成功
+2024-03-11 11:33:43,520 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:43,520 - INFO - 成功
+2024-03-11 11:33:43,531 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:43,531 - INFO - 成功
+2024-03-11 11:33:43,561 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:43,561 - INFO - 成功
+2024-03-11 11:33:49,683 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:49,683 - INFO - 成功
+2024-03-11 11:33:50,805 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:50,806 - INFO - 成功
+2024-03-11 11:33:50,921 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:50,921 - INFO - 成功
+2024-03-11 11:33:51,112 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:51,112 - INFO - 成功
+2024-03-11 11:33:51,444 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:51,444 - INFO - 成功
+2024-03-11 11:33:52,478 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,478 - INFO - 成功
+2024-03-11 11:33:52,541 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,541 - INFO - 成功
+2024-03-11 11:33:52,619 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,619 - INFO - 成功
+2024-03-11 11:33:52,641 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,641 - INFO - 成功
+2024-03-11 11:33:52,660 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,660 - INFO - 成功
+2024-03-11 11:33:52,772 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,772 - INFO - 成功
+2024-03-11 11:33:52,794 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,794 - INFO - 成功
+2024-03-11 11:33:52,798 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:52,798 - INFO - 成功
+2024-03-11 11:33:53,431 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:53,432 - INFO - 成功
+2024-03-11 11:33:59,247 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:59,247 - INFO - 成功
+2024-03-11 11:33:59,253 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:59,253 - INFO - 成功
+2024-03-11 11:33:59,339 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:59,339 - INFO - 成功
+2024-03-11 11:33:59,951 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:33:59,952 - INFO - 成功
+2024-03-11 11:34:00,233 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:00,233 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:00,233 - INFO - 成功
+2024-03-11 11:34:00,233 - INFO - 成功
+2024-03-11 11:34:00,243 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:00,243 - INFO - 成功
+2024-03-11 11:34:00,549 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:00,549 - INFO - 成功
+2024-03-11 11:34:00,616 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:00,616 - INFO - 成功
+2024-03-11 11:34:00,718 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:00,718 - INFO - 成功
+2024-03-11 11:34:03,853 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:03,853 - INFO - 成功
+2024-03-11 11:34:04,096 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:04,096 - INFO - 成功
+2024-03-11 11:34:12,226 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:12,226 - INFO - 成功
+2024-03-11 11:34:12,433 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:12,433 - INFO - 成功
+2024-03-11 11:34:13,416 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:13,416 - INFO - 成功
+2024-03-11 11:34:14,943 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:14,943 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:14,943 - INFO - 成功
+2024-03-11 11:34:14,943 - INFO - 成功
+2024-03-11 11:34:15,301 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:15,301 - INFO - 成功
+2024-03-11 11:34:15,793 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:15,794 - INFO - 成功
+2024-03-11 11:34:16,882 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:16,882 - INFO - 成功
+2024-03-11 11:34:17,182 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:17,182 - INFO - 成功
+2024-03-11 11:34:17,300 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:17,300 - INFO - 成功
+2024-03-11 11:34:17,602 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:17,603 - INFO - 成功
+2024-03-11 11:34:18,405 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:18,405 - INFO - 成功
+2024-03-11 11:34:18,976 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:18,976 - INFO - 成功
+2024-03-11 11:34:19,281 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:19,281 - INFO - 成功
+2024-03-11 11:34:19,994 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:19,994 - INFO - 成功
+2024-03-11 11:34:20,035 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:20,035 - INFO - 成功
+2024-03-11 11:34:20,050 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:20,050 - INFO - 成功
+2024-03-11 11:34:20,216 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:20,216 - INFO - 成功
+2024-03-11 11:34:20,627 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:20,627 - INFO - 成功
+2024-03-11 11:34:20,631 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:20,632 - INFO - 成功
+2024-03-11 11:34:20,637 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:20,637 - INFO - 成功
+2024-03-11 11:34:21,178 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:21,178 - INFO - 成功
+2024-03-11 11:34:21,427 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:21,428 - INFO - 成功
+2024-03-11 11:34:21,438 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:21,438 - INFO - 成功
+2024-03-11 11:34:21,635 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:21,636 - INFO - 成功
+2024-03-11 11:34:21,994 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:21,994 - INFO - 成功
+2024-03-11 11:34:22,225 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:22,225 - INFO - 成功
+2024-03-11 11:34:22,357 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:22,357 - INFO - 成功
+2024-03-11 11:34:22,672 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:22,672 - INFO - 成功
+2024-03-11 11:34:22,754 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:22,755 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:22,755 - INFO - 成功
+2024-03-11 11:34:22,755 - INFO - 成功
+2024-03-11 11:34:22,850 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:22,851 - INFO - 成功
+2024-03-11 11:34:22,904 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:22,904 - INFO - 成功
+2024-03-11 11:34:23,370 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:23,371 - INFO - 成功
+2024-03-11 11:34:23,943 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:23,943 - INFO - 成功
+2024-03-11 11:34:23,948 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:23,948 - INFO - 成功
+2024-03-11 11:34:24,272 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:24,272 - INFO - 成功
+2024-03-11 11:34:24,421 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:24,421 - INFO - 成功
+2024-03-11 11:34:24,429 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:24,430 - INFO - 成功
+2024-03-11 11:34:24,688 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:24,688 - INFO - 成功
+2024-03-11 11:34:24,706 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:24,706 - INFO - 成功
+2024-03-11 11:34:25,262 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:25,262 - INFO - 成功
+2024-03-11 11:34:25,633 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:25,633 - INFO - 成功
+2024-03-11 11:34:26,211 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:26,211 - INFO - 成功
+2024-03-11 11:34:26,252 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:26,252 - INFO - 成功
+2024-03-11 11:34:26,405 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:26,406 - INFO - 成功
+2024-03-11 11:34:26,969 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:26,969 - INFO - 成功
+2024-03-11 11:34:27,527 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:27,527 - INFO - 成功
+2024-03-11 11:34:27,542 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:27,542 - INFO - 成功
+2024-03-11 11:34:28,291 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:28,291 - INFO - 成功
+2024-03-11 11:34:28,433 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:28,433 - INFO - 成功
+2024-03-11 11:34:29,235 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:29,235 - INFO - 成功
+2024-03-11 11:34:29,720 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:29,720 - INFO - 成功
+2024-03-11 11:34:30,446 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:30,446 - INFO - 成功
+2024-03-11 11:34:30,643 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:30,643 - INFO - 成功
+2024-03-11 11:34:31,445 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:31,445 - INFO - 成功
+2024-03-11 11:34:32,150 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:32,151 - INFO - 成功
+2024-03-11 11:34:32,315 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:32,316 - INFO - 成功
+2024-03-11 11:34:33,372 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:33,372 - INFO - 成功
+2024-03-11 11:34:33,609 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:33,609 - INFO - 成功
+2024-03-11 11:34:33,696 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:33,697 - INFO - 成功
+2024-03-11 11:34:34,484 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:34,485 - INFO - 成功
+2024-03-11 11:34:34,931 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:34,931 - INFO - 成功
+2024-03-11 11:34:35,305 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:35,306 - INFO - 成功
+2024-03-11 11:34:35,321 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:35,321 - INFO - 成功
+2024-03-11 11:34:35,607 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:35,608 - INFO - 成功
+2024-03-11 11:34:36,606 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:36,607 - INFO - 成功
+2024-03-11 11:34:36,903 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:36,903 - INFO - 成功
+2024-03-11 11:34:37,154 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:37,154 - INFO - 成功
+2024-03-11 11:34:37,435 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:37,436 - INFO - 成功
+2024-03-11 11:34:37,896 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:37,896 - INFO - 成功
+2024-03-11 11:34:37,919 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:37,919 - INFO - 成功
+2024-03-11 11:34:38,443 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:38,443 - INFO - 成功
+2024-03-11 11:34:39,194 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:39,194 - INFO - 成功
+2024-03-11 11:34:39,559 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:39,559 - INFO - 成功
+2024-03-11 11:34:40,017 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:40,017 - INFO - 成功
+2024-03-11 11:34:40,157 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:40,157 - INFO - 成功
+2024-03-11 11:34:40,346 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:40,347 - INFO - 成功
+2024-03-11 11:34:40,464 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:40,464 - INFO - 成功
+2024-03-11 11:34:40,491 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:40,492 - INFO - 成功
+2024-03-11 11:34:40,507 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:40,507 - INFO - 成功
+2024-03-11 11:34:43,081 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:43,082 - INFO - 成功
+2024-03-11 11:34:43,362 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:43,362 - INFO - 成功
+2024-03-11 11:34:44,135 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:44,135 - INFO - 成功
+2024-03-11 11:34:44,325 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:44,325 - INFO - 成功
+2024-03-11 11:34:45,118 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:45,118 - INFO - 成功
+2024-03-11 11:34:45,281 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:45,281 - INFO - 成功
+2024-03-11 11:34:45,940 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:45,940 - INFO - 成功
+2024-03-11 11:34:45,979 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:45,979 - INFO - 成功
+2024-03-11 11:34:47,251 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:47,251 - INFO - 成功
+2024-03-11 11:34:47,816 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:47,817 - INFO - 成功
+2024-03-11 11:34:48,927 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:48,927 - INFO - 成功
+2024-03-11 11:34:49,766 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:49,767 - INFO - 成功
+2024-03-11 11:34:49,835 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:49,835 - INFO - 成功
+2024-03-11 11:34:50,240 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:50,240 - INFO - 成功
+2024-03-11 11:34:50,367 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:50,367 - INFO - 成功
+2024-03-11 11:34:51,241 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:51,241 - INFO - 成功
+2024-03-11 11:34:51,445 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:51,445 - INFO - 成功
+2024-03-11 11:34:51,464 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:51,464 - INFO - 成功
+2024-03-11 11:34:52,709 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:52,709 - INFO - 成功
+2024-03-11 11:34:52,920 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:52,920 - INFO - 成功
+2024-03-11 11:34:53,001 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:53,002 - INFO - 成功
+2024-03-11 11:34:53,020 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:53,020 - INFO - 成功
+2024-03-11 11:34:53,514 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:53,515 - INFO - 成功
+2024-03-11 11:34:54,041 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:54,041 - INFO - 成功
+2024-03-11 11:34:54,561 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:54,561 - INFO - 成功
+2024-03-11 11:34:54,594 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:54,594 - INFO - 成功
+2024-03-11 11:34:55,008 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:55,008 - INFO - 成功
+2024-03-11 11:34:55,186 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:55,186 - INFO - 成功
+2024-03-11 11:34:55,203 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:55,203 - INFO - 成功
+2024-03-11 11:34:55,319 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:55,319 - INFO - 成功
+2024-03-11 11:34:56,397 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:56,397 - INFO - 成功
+2024-03-11 11:34:56,599 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:56,599 - INFO - 成功
+2024-03-11 11:34:56,824 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:56,825 - INFO - 成功
+2024-03-11 11:34:57,043 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:57,043 - INFO - 成功
+2024-03-11 11:34:57,104 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:57,104 - INFO - 成功
+2024-03-11 11:34:57,105 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:57,105 - INFO - 成功
+2024-03-11 11:34:58,060 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:58,061 - INFO - 成功
+2024-03-11 11:34:58,413 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:58,413 - INFO - 成功
+2024-03-11 11:34:58,601 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:58,602 - INFO - 成功
+2024-03-11 11:34:58,829 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:58,829 - INFO - 成功
+2024-03-11 11:34:59,064 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:59,064 - INFO - 成功
+2024-03-11 11:34:59,210 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:59,210 - INFO - 成功
+2024-03-11 11:34:59,354 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:34:59,354 - INFO - 成功
+2024-03-11 11:35:00,017 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:00,017 - INFO - 成功
+2024-03-11 11:35:00,559 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:00,559 - INFO - 成功
+2024-03-11 11:35:00,628 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:00,628 - INFO - 成功
+2024-03-11 11:35:00,937 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:00,937 - INFO - 成功
+2024-03-11 11:35:01,248 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:01,248 - INFO - 成功
+2024-03-11 11:35:02,313 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:02,313 - INFO - 成功
+2024-03-11 11:35:02,464 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:02,464 - INFO - 成功
+2024-03-11 11:35:02,909 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:02,909 - INFO - 成功
+2024-03-11 11:35:03,058 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:03,058 - INFO - 成功
+2024-03-11 11:35:03,597 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:03,597 - INFO - 成功
+2024-03-11 11:35:04,402 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:04,402 - INFO - 成功
+2024-03-11 11:35:04,734 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:04,735 - INFO - 成功
+2024-03-11 11:35:05,461 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:05,461 - INFO - 成功
+2024-03-11 11:35:05,765 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:05,765 - INFO - 成功
+2024-03-11 11:35:06,412 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:06,412 - INFO - 成功
+2024-03-11 11:35:06,760 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:06,760 - INFO - 成功
+2024-03-11 11:35:07,524 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:07,524 - INFO - 成功
+2024-03-11 11:35:07,879 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:07,879 - INFO - 成功
+2024-03-11 11:35:07,883 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:07,883 - INFO - 成功
+2024-03-11 11:35:07,973 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:07,973 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:07,973 - INFO - 成功
+2024-03-11 11:35:07,973 - INFO - 成功
+2024-03-11 11:35:07,983 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:07,984 - INFO - 成功
+2024-03-11 11:35:07,992 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:07,993 - INFO - 成功
+2024-03-11 11:35:08,084 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:08,084 - INFO - 成功
+2024-03-11 11:35:16,723 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:16,723 - INFO - 成功
+2024-03-11 11:35:17,053 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:17,053 - INFO - 成功
+2024-03-11 11:35:18,057 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:18,057 - INFO - 成功
+2024-03-11 11:35:18,970 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:18,970 - INFO - 成功
+2024-03-11 11:35:18,978 - ERROR - argument of type 'NoneType' is not iterable
+2024-03-11 11:35:18,979 - INFO - 成功
+2024-03-11 11:36:42,085 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-11 11:36:42,278 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-11 11:36:42,482 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-11 11:36:50,158 - INFO - 成功
+2024-03-11 11:36:50,639 - INFO - 成功
+2024-03-11 11:36:50,931 - INFO - 成功
+2024-03-11 11:36:52,002 - INFO - 成功
+2024-03-11 11:36:52,704 - INFO - 成功
+2024-03-11 11:36:52,846 - INFO - 成功
+2024-03-11 11:36:54,750 - INFO - 成功
+2024-03-11 11:36:54,787 - INFO - 成功
+2024-03-11 11:36:54,960 - INFO - 成功
+2024-03-11 11:36:54,960 - INFO - 成功
+2024-03-11 11:36:55,087 - INFO - 成功
+2024-03-11 11:36:55,400 - INFO - 成功
+2024-03-11 11:36:56,847 - INFO - 成功
+2024-03-11 11:36:56,852 - INFO - 成功
+2024-03-11 11:36:56,966 - INFO - 成功
+2024-03-11 11:36:56,970 - INFO - 成功
+2024-03-11 11:36:57,134 - INFO - 成功
+2024-03-11 11:36:57,516 - INFO - 成功
+2024-03-11 11:36:57,589 - INFO - 成功
+2024-03-11 11:36:57,736 - INFO - 成功
+2024-03-11 11:36:58,327 - INFO - 成功
+2024-03-11 11:36:58,333 - INFO - 成功
+2024-03-11 11:36:58,964 - INFO - 成功
+2024-03-11 11:36:59,093 - INFO - 成功
+2024-03-11 11:36:59,098 - INFO - 成功
+2024-03-11 11:36:59,266 - INFO - 成功
+2024-03-11 11:36:59,959 - INFO - 成功
+2024-03-11 11:37:00,122 - INFO - 成功
+2024-03-11 11:37:00,127 - INFO - 成功
+2024-03-11 11:37:00,133 - INFO - 成功
+2024-03-11 11:37:00,472 - INFO - 成功
+2024-03-11 11:37:00,472 - INFO - 成功
+2024-03-11 11:37:00,585 - INFO - 成功
+2024-03-11 11:37:00,598 - INFO - 成功
+2024-03-11 11:37:00,599 - INFO - 成功
+2024-03-11 11:37:00,940 - INFO - 成功
+2024-03-11 11:37:02,169 - INFO - 成功
+2024-03-11 11:37:02,175 - INFO - 成功
+2024-03-11 11:37:02,229 - INFO - 成功
+2024-03-11 11:37:02,485 - INFO - 成功
+2024-03-11 11:37:02,494 - INFO - 成功
+2024-03-11 11:37:02,512 - INFO - 成功
+2024-03-11 11:37:03,365 - INFO - 成功
+2024-03-11 11:37:03,529 - INFO - 成功
+2024-03-11 11:37:03,760 - INFO - 成功
+2024-03-11 11:37:03,765 - INFO - 成功
+2024-03-11 11:37:04,057 - INFO - 成功
+2024-03-11 11:37:04,204 - INFO - 成功
+2024-03-11 11:37:04,207 - INFO - 成功
+2024-03-11 11:37:04,826 - INFO - 成功
+2024-03-11 11:37:04,986 - INFO - 成功
+2024-03-11 11:37:05,476 - INFO - 成功
+2024-03-11 11:37:07,151 - INFO - 成功
+2024-03-11 11:37:07,230 - INFO - 成功
+2024-03-11 11:37:07,742 - INFO - 成功
+2024-03-11 11:37:07,925 - INFO - 成功
+2024-03-11 11:37:08,156 - INFO - 成功
+2024-03-11 11:37:08,701 - INFO - 成功
+2024-03-11 11:37:09,757 - INFO - 成功
+2024-03-11 11:37:09,767 - INFO - 成功
+2024-03-11 11:37:09,896 - INFO - 成功
+2024-03-11 11:37:10,370 - INFO - 成功
+2024-03-11 11:37:10,648 - INFO - 成功
+2024-03-11 11:37:10,757 - INFO - 成功
+2024-03-11 11:37:11,369 - INFO - 成功
+2024-03-11 11:37:11,935 - INFO - 成功
+2024-03-11 11:37:12,562 - INFO - 成功
+2024-03-11 11:37:12,701 - INFO - 成功
+2024-03-11 11:37:13,370 - INFO - 成功
+2024-03-11 11:37:13,962 - INFO - 成功
+2024-03-11 11:37:13,967 - INFO - 成功
+2024-03-11 11:37:14,200 - INFO - 成功
+2024-03-11 11:37:14,204 - INFO - 成功
+2024-03-11 11:37:14,769 - INFO - 成功
+2024-03-11 11:37:15,258 - INFO - 成功
+2024-03-11 11:37:15,620 - INFO - 成功
+2024-03-11 11:37:16,061 - INFO - 成功
+2024-03-11 11:37:16,901 - INFO - 成功
+2024-03-11 11:37:17,125 - INFO - 成功
+2024-03-11 11:37:17,147 - INFO - 成功
+2024-03-11 11:37:17,311 - INFO - 成功
+2024-03-11 11:37:17,443 - INFO - 成功
+2024-03-11 11:37:18,339 - INFO - 成功
+2024-03-11 11:37:18,654 - INFO - 成功
+2024-03-11 11:37:18,668 - INFO - 成功
+2024-03-11 11:37:19,276 - INFO - 成功
+2024-03-11 11:37:19,537 - INFO - 成功
+2024-03-11 11:37:19,695 - INFO - 成功
+2024-03-11 11:37:20,461 - INFO - 成功
+2024-03-11 11:37:21,427 - INFO - 成功
+2024-03-11 11:37:21,541 - INFO - 成功
+2024-03-11 11:37:21,833 - INFO - 成功
+2024-03-11 11:37:22,400 - INFO - 成功
+2024-03-11 11:37:22,745 - INFO - 成功
+2024-03-11 11:37:22,746 - INFO - 成功
+2024-03-11 11:37:23,702 - INFO - 成功
+2024-03-11 11:37:23,735 - INFO - 成功
+2024-03-11 11:37:23,934 - INFO - 成功
+2024-03-11 11:37:26,256 - INFO - 成功
+2024-03-11 11:37:26,256 - INFO - 成功
+2024-03-11 11:37:26,481 - INFO - 成功
+2024-03-11 11:37:26,847 - INFO - 成功
+2024-03-11 11:37:27,693 - INFO - 成功
+2024-03-11 11:37:27,946 - INFO - 成功
+2024-03-11 11:37:28,748 - INFO - 成功
+2024-03-11 11:37:28,924 - INFO - 成功
+2024-03-11 11:37:28,955 - INFO - 成功
+2024-03-11 11:37:29,037 - INFO - 成功
+2024-03-11 11:37:29,657 - INFO - 成功
+2024-03-11 11:37:30,127 - INFO - 成功
+2024-03-11 11:37:30,311 - INFO - 成功
+2024-03-11 11:37:30,443 - INFO - 成功
+2024-03-11 11:37:31,124 - INFO - 成功
+2024-03-11 11:37:31,125 - INFO - 成功
+2024-03-11 11:37:31,362 - INFO - 成功
+2024-03-11 11:37:31,880 - INFO - 成功
+2024-03-11 11:37:32,010 - INFO - 成功
+2024-03-11 11:37:32,297 - INFO - 成功
+2024-03-11 11:37:32,622 - INFO - 成功
+2024-03-11 11:37:33,369 - INFO - 成功
+2024-03-11 11:37:33,461 - INFO - 成功
+2024-03-11 11:37:34,116 - INFO - 成功
+2024-03-11 11:37:34,357 - INFO - 成功
+2024-03-11 11:37:34,609 - INFO - 成功
+2024-03-11 11:37:34,943 - INFO - 成功
+2024-03-11 11:37:35,267 - INFO - 成功
+2024-03-11 11:37:35,368 - INFO - 成功
+2024-03-11 11:37:36,307 - INFO - 成功
+2024-03-11 11:37:36,612 - INFO - 成功
+2024-03-11 11:37:36,816 - INFO - 成功
+2024-03-11 11:37:37,309 - INFO - 成功
+2024-03-11 11:37:37,638 - INFO - 成功
+2024-03-11 11:37:38,291 - INFO - 成功
+2024-03-11 11:37:38,889 - INFO - 成功
+2024-03-11 11:37:39,668 - INFO - 成功
+2024-03-11 11:37:40,014 - INFO - 成功
+2024-03-11 11:37:40,290 - INFO - 成功
+2024-03-11 11:37:40,498 - INFO - 成功
+2024-03-11 11:37:41,403 - INFO - 成功
+2024-03-11 11:37:41,530 - INFO - 成功
+2024-03-11 11:37:41,682 - INFO - 成功
+2024-03-11 11:37:42,286 - INFO - 成功
+2024-03-11 11:37:42,735 - INFO - 成功
+2024-03-11 11:37:43,414 - INFO - 成功
+2024-03-11 11:37:43,765 - INFO - 成功
+2024-03-11 11:37:43,765 - INFO - 成功
+2024-03-11 11:37:43,892 - INFO - 成功
+2024-03-11 11:37:44,531 - INFO - 成功
+2024-03-11 11:37:44,883 - INFO - 成功
+2024-03-11 11:37:45,495 - INFO - 成功
+2024-03-11 11:37:45,711 - INFO - 成功
+2024-03-11 11:37:46,204 - INFO - 成功
+2024-03-11 11:37:46,272 - INFO - 成功
+2024-03-11 11:37:47,126 - INFO - 成功
+2024-03-11 11:37:47,220 - INFO - 成功
+2024-03-11 11:37:47,367 - INFO - 成功
+2024-03-11 11:37:47,468 - INFO - 成功
+2024-03-11 11:37:48,279 - INFO - 成功
+2024-03-11 11:37:48,578 - INFO - 成功
+2024-03-11 11:37:49,004 - INFO - 成功
+2024-03-11 11:37:49,543 - INFO - 成功
+2024-03-11 11:37:49,767 - INFO - 成功
+2024-03-11 11:37:50,000 - INFO - 成功
+2024-03-11 11:37:50,587 - INFO - 成功
+2024-03-11 11:37:50,614 - INFO - 成功
+2024-03-11 11:37:51,270 - INFO - 成功
+2024-03-11 11:37:51,721 - INFO - 成功
+2024-03-11 11:37:51,884 - INFO - 成功
+2024-03-11 11:37:52,732 - INFO - 成功
+2024-03-11 11:37:53,027 - INFO - 成功
+2024-03-11 11:37:53,046 - INFO - 成功
+2024-03-11 11:37:53,721 - INFO - 成功
+2024-03-11 11:37:53,724 - INFO - 成功
+2024-03-11 11:37:54,669 - INFO - 成功
+2024-03-11 11:37:55,019 - INFO - 成功
+2024-03-11 11:37:55,428 - INFO - 成功
+2024-03-11 11:37:55,749 - INFO - 成功
+2024-03-11 11:37:56,173 - INFO - 成功
+2024-03-11 11:37:56,616 - INFO - 成功
+2024-03-11 11:37:56,633 - INFO - 成功
+2024-03-11 11:37:57,312 - INFO - 成功
+2024-03-11 11:37:57,484 - INFO - 成功
+2024-03-11 11:37:58,162 - INFO - 成功
+2024-03-11 11:37:58,558 - INFO - 成功
+2024-03-11 11:37:58,848 - INFO - 成功
+2024-03-11 11:37:58,987 - INFO - 成功
+2024-03-11 11:37:59,549 - INFO - 成功
+2024-03-11 11:37:59,884 - INFO - 成功
+2024-03-11 11:38:00,078 - INFO - 成功
+2024-03-11 11:38:00,810 - INFO - 成功
+2024-03-11 11:38:01,441 - INFO - 成功
+2024-03-11 11:38:01,561 - INFO - 成功
+2024-03-11 11:38:02,293 - INFO - 成功
+2024-03-11 11:38:02,316 - INFO - 成功
+2024-03-11 11:38:02,750 - INFO - 成功
+2024-03-11 11:38:03,130 - INFO - 成功
+2024-03-11 11:38:03,465 - INFO - 成功
+2024-03-11 11:38:03,483 - INFO - 成功
+2024-03-11 11:38:04,210 - INFO - 成功
+2024-03-11 11:38:04,437 - INFO - 成功
+2024-03-11 11:38:05,015 - INFO - 成功
+2024-03-11 11:38:05,360 - INFO - 成功
+2024-03-11 11:38:05,519 - INFO - 成功
+2024-03-11 11:38:06,086 - INFO - 成功
+2024-03-11 11:38:06,716 - INFO - 成功
+2024-03-11 11:38:06,919 - INFO - 成功
+2024-03-11 11:38:07,678 - INFO - 成功
+2024-03-11 11:38:08,002 - INFO - 成功
+2024-03-11 11:38:08,573 - INFO - 成功
+2024-03-11 11:38:08,945 - INFO - 成功
+2024-03-11 11:38:09,162 - INFO - 成功
+2024-03-11 11:38:10,545 - INFO - 成功
+2024-03-11 11:38:10,549 - INFO - 成功
+2024-03-11 11:38:10,894 - INFO - 成功
+2024-03-11 11:38:10,918 - INFO - 成功
+2024-03-11 11:38:11,314 - INFO - 成功
+2024-03-11 11:38:11,424 - INFO - 成功
+2024-03-11 11:38:11,625 - INFO - 成功
+2024-03-11 11:38:11,897 - INFO - 成功
+2024-03-11 11:38:12,001 - INFO - 成功
+2024-03-11 11:38:12,018 - INFO - 成功
+2024-03-11 11:38:12,135 - INFO - 成功
+2024-03-11 11:38:16,444 - INFO - 成功
+2024-03-11 11:38:16,945 - INFO - 成功
+2024-03-11 11:38:17,029 - INFO - 成功
+2024-03-11 11:38:17,494 - INFO - 成功
+2024-03-11 11:38:17,497 - INFO - 成功
+2024-03-11 11:38:17,599 - INFO - 成功
+2024-03-11 11:38:17,707 - INFO - 成功
+2024-03-11 11:38:20,813 - INFO - 成功
+2024-03-11 11:38:20,915 - INFO - 成功
+2024-03-11 11:38:24,228 - INFO - 成功
+2024-03-11 11:38:24,906 - INFO - 成功
+2024-03-11 11:38:32,399 - INFO - 成功
+2024-03-11 11:38:33,389 - INFO - 成功
+2024-03-11 11:38:33,390 - INFO - 成功
+2024-03-11 11:38:33,941 - INFO - 成功
+2024-03-11 11:38:35,451 - INFO - 成功
+2024-03-11 11:38:35,647 - INFO - 成功
+2024-03-11 11:38:36,092 - INFO - 成功
+2024-03-11 11:38:38,225 - INFO - 成功
+2024-03-11 11:38:38,235 - INFO - 成功
+2024-03-11 11:38:38,708 - INFO - 成功
+2024-03-11 11:38:38,740 - INFO - 成功
+2024-03-11 11:38:38,949 - INFO - 成功
+2024-03-11 11:38:39,300 - INFO - 成功
+2024-03-11 11:38:39,312 - INFO - 成功
+2024-03-11 11:38:40,415 - INFO - 成功
+2024-03-11 11:38:40,513 - INFO - 成功
+2024-03-11 11:38:40,517 - INFO - 成功
+2024-03-11 11:38:40,622 - INFO - 成功
+2024-03-11 11:38:41,100 - INFO - 成功
+2024-03-11 11:38:41,866 - INFO - 成功
+2024-03-11 11:38:41,876 - INFO - 成功
+2024-03-11 11:38:41,956 - INFO - 成功
+2024-03-11 11:38:42,649 - INFO - 成功
+2024-03-11 11:38:43,327 - INFO - 成功
+2024-03-11 11:38:43,432 - INFO - 成功
+2024-03-11 11:38:43,774 - INFO - 成功
+2024-03-11 11:38:44,004 - INFO - 成功
+2024-03-11 11:38:44,006 - INFO - 成功
+2024-03-11 11:38:44,037 - INFO - 成功
+2024-03-11 11:38:44,037 - INFO - 成功
+2024-03-11 11:38:44,037 - INFO - 成功
+2024-03-11 11:38:44,168 - INFO - 成功
+2024-03-11 11:38:44,176 - INFO - 成功
+2024-03-11 11:38:44,177 - INFO - 成功
+2024-03-11 11:38:44,657 - INFO - 成功
+2024-03-11 11:38:45,173 - INFO - 成功
+2024-03-11 11:38:45,863 - INFO - 成功
+2024-03-11 11:38:46,112 - INFO - 成功
+2024-03-11 11:38:46,298 - INFO - 成功
+2024-03-11 11:38:46,310 - INFO - 成功
+2024-03-11 11:38:46,316 - INFO - 成功
+2024-03-11 11:38:46,644 - INFO - 成功
+2024-03-11 11:38:46,757 - INFO - 成功
+2024-03-11 11:38:47,506 - INFO - 成功
+2024-03-11 11:38:47,923 - INFO - 成功
+2024-03-11 11:38:48,128 - INFO - 成功
+2024-03-11 11:38:48,161 - INFO - 成功
+2024-03-11 11:38:48,456 - INFO - 成功
+2024-03-11 11:38:48,659 - INFO - 成功
+2024-03-11 11:38:48,797 - INFO - 成功
+2024-03-11 11:38:48,797 - INFO - 成功
+2024-03-11 11:38:48,868 - INFO - 成功
+2024-03-11 11:38:49,032 - INFO - 成功
+2024-03-11 11:38:49,561 - INFO - 成功
+2024-03-11 11:38:50,580 - INFO - 成功
+2024-03-11 11:38:50,665 - INFO - 成功
+2024-03-11 11:38:51,700 - INFO - 成功
+2024-03-11 11:38:51,720 - INFO - 成功
+2024-03-11 11:38:52,627 - INFO - 成功
+2024-03-11 11:38:53,103 - INFO - 成功
+2024-03-11 11:38:53,106 - INFO - 成功
+2024-03-11 11:38:53,278 - INFO - 成功
+2024-03-11 11:38:53,406 - INFO - 成功
+2024-03-11 11:38:53,766 - INFO - 成功
+2024-03-11 11:38:53,771 - INFO - 成功
+2024-03-11 11:38:53,878 - INFO - 成功
+2024-03-11 11:38:53,901 - INFO - 成功
+2024-03-11 11:39:02,510 - INFO - 成功
+2024-03-11 11:39:03,006 - INFO - 成功
+2024-03-11 11:39:03,143 - INFO - 成功
+2024-03-11 11:39:03,146 - INFO - 成功
+2024-03-11 11:39:04,013 - INFO - 成功
+2024-03-11 11:39:05,421 - INFO - 成功
+2024-03-11 11:39:06,156 - INFO - 成功
+2024-03-11 11:39:06,505 - INFO - 成功
+2024-03-11 11:39:06,712 - INFO - 成功
+2024-03-11 11:39:07,687 - INFO - 成功
+2024-03-11 11:39:07,693 - INFO - 成功
+2024-03-11 11:39:07,707 - INFO - 成功
+2024-03-11 11:39:07,710 - INFO - 成功
+2024-03-11 11:39:08,546 - INFO - 成功
+2024-03-11 11:39:08,576 - INFO - 成功
+2024-03-11 11:39:08,976 - INFO - 成功
+2024-03-11 11:39:09,228 - INFO - 成功
+2024-03-11 11:39:09,482 - INFO - 成功
+2024-03-11 11:39:10,003 - INFO - 成功
+2024-03-11 11:39:10,011 - INFO - 成功
+2024-03-11 11:39:10,717 - INFO - 成功
+2024-03-11 11:39:10,721 - INFO - 成功
+2024-03-11 11:39:11,366 - INFO - 成功
+2024-03-11 11:39:11,602 - INFO - 成功
+2024-03-11 11:39:11,864 - INFO - 成功
+2024-03-11 11:39:12,283 - INFO - 成功
+2024-03-11 11:39:12,472 - INFO - 成功
+2024-03-11 11:39:12,520 - INFO - 成功
+2024-03-11 11:39:12,521 - INFO - 成功
+2024-03-11 11:39:12,521 - INFO - 成功
+2024-03-11 11:39:12,589 - INFO - 成功
+2024-03-11 11:39:12,793 - INFO - 成功
+2024-03-11 11:39:12,843 - INFO - 成功
+2024-03-11 11:39:13,136 - INFO - 成功
+2024-03-11 11:39:13,261 - INFO - 成功
+2024-03-11 11:39:13,549 - INFO - 成功
+2024-03-11 11:39:14,477 - INFO - 成功
+2024-03-11 11:39:14,885 - INFO - 成功
+2024-03-11 11:39:15,108 - INFO - 成功
+2024-03-11 11:39:15,111 - INFO - 成功
+2024-03-11 11:39:15,326 - INFO - 成功
+2024-03-11 11:39:15,517 - INFO - 成功
+2024-03-11 11:39:15,689 - INFO - 成功
+2024-03-11 11:39:16,460 - INFO - 成功
+2024-03-11 11:39:16,568 - INFO - 成功
+2024-03-11 11:39:17,024 - INFO - 成功
+2024-03-11 11:39:17,248 - INFO - 成功
+2024-03-11 11:39:17,248 - INFO - 成功
+2024-03-11 11:39:17,769 - INFO - 成功
+2024-03-11 11:39:18,220 - INFO - 成功
+2024-03-11 11:39:18,224 - INFO - 成功
+2024-03-11 11:39:18,420 - INFO - 成功
+2024-03-11 11:39:18,426 - INFO - 成功
+2024-03-11 11:39:18,504 - INFO - 成功
+2024-03-11 11:39:19,047 - INFO - 成功
+2024-03-11 11:39:27,432 - INFO - 成功
+2024-03-11 11:39:27,963 - INFO - 成功
+2024-03-11 11:39:28,630 - INFO - 成功
+2024-03-11 11:39:29,875 - INFO - 成功
+2024-03-11 11:39:30,579 - INFO - 成功
+2024-03-11 11:39:31,441 - INFO - 成功
+2024-03-11 11:39:32,104 - INFO - 成功
+2024-03-11 11:39:32,392 - INFO - 成功
+2024-03-11 11:39:32,857 - INFO - 成功
+2024-03-11 11:39:33,692 - INFO - 成功
+2024-03-11 11:39:34,283 - INFO - 成功
+2024-03-11 11:39:34,924 - INFO - 成功
+2024-03-11 11:39:35,112 - INFO - 成功
+2024-03-11 11:39:35,122 - INFO - 成功
+2024-03-11 11:39:35,395 - INFO - 成功
+2024-03-11 11:39:35,858 - INFO - 成功
+2024-03-11 11:39:36,238 - INFO - 成功
+2024-03-11 11:39:36,543 - INFO - 成功
+2024-03-11 11:39:36,551 - INFO - 成功
+2024-03-11 11:39:36,710 - INFO - 成功
+2024-03-11 11:39:37,211 - INFO - 成功
+2024-03-11 11:39:37,528 - INFO - 成功
+2024-03-11 11:39:37,574 - INFO - 成功
+2024-03-11 11:39:37,603 - INFO - 成功
+2024-03-11 11:39:37,637 - INFO - 成功
+2024-03-11 11:39:37,779 - INFO - 成功
+2024-03-11 11:39:37,789 - INFO - 成功
+2024-03-11 11:39:38,194 - INFO - 成功
+2024-03-11 11:39:38,708 - INFO - 成功
+2024-03-11 11:39:38,795 - INFO - 成功
+2024-03-11 11:39:38,804 - INFO - 成功
+2024-03-11 11:39:38,806 - INFO - 成功
+2024-03-11 11:39:38,807 - INFO - 成功
+2024-03-11 11:39:39,112 - INFO - 成功
+2024-03-11 11:39:39,163 - INFO - 成功
+2024-03-11 11:39:39,679 - INFO - 成功
+2024-03-11 11:39:40,236 - INFO - 成功
+2024-03-11 11:39:40,378 - INFO - 成功
+2024-03-11 11:39:40,421 - INFO - 成功
+2024-03-11 11:39:40,843 - INFO - 成功
+2024-03-11 11:39:41,208 - INFO - 成功
+2024-03-11 11:39:41,531 - INFO - 成功
+2024-03-11 11:39:41,534 - INFO - 成功
+2024-03-11 11:39:41,661 - INFO - 成功
+2024-03-11 11:39:42,021 - INFO - 成功
+2024-03-11 11:39:42,141 - INFO - 成功
+2024-03-11 11:39:42,388 - INFO - 成功
+2024-03-11 11:39:43,230 - INFO - 成功
+2024-03-11 11:39:43,386 - INFO - 成功
+2024-03-11 11:39:43,684 - INFO - 成功
+2024-03-11 11:39:44,705 - INFO - 成功
+2024-03-11 11:39:45,092 - INFO - 成功
+2024-03-11 11:39:46,109 - INFO - 成功
+2024-03-11 11:39:46,523 - INFO - 成功
+2024-03-11 11:39:46,529 - INFO - 成功
+2024-03-11 11:39:47,059 - INFO - 成功
+2024-03-11 11:39:47,411 - INFO - 成功
+2024-03-11 11:39:48,034 - INFO - 成功
+2024-03-11 11:39:48,447 - INFO - 成功
+2024-03-11 11:39:48,458 - INFO - 成功
+2024-03-11 11:39:48,541 - INFO - 成功
+2024-03-11 11:39:49,320 - INFO - 成功
+2024-03-11 11:39:49,590 - INFO - 成功
+2024-03-11 11:39:50,089 - INFO - 成功
+2024-03-11 11:39:50,486 - INFO - 成功
+2024-03-11 11:39:50,947 - INFO - 成功
+2024-03-11 11:39:51,484 - INFO - 成功
+2024-03-11 11:39:52,232 - INFO - 成功
+2024-03-11 11:39:52,397 - INFO - 成功
+2024-03-11 11:39:52,398 - INFO - 成功
+2024-03-11 11:39:53,219 - INFO - 成功
+2024-03-11 11:39:53,724 - INFO - 成功
+2024-03-11 11:39:53,819 - INFO - 成功
+2024-03-11 11:39:54,069 - INFO - 成功
+2024-03-11 11:39:54,836 - INFO - 成功
+2024-03-11 11:39:54,936 - INFO - 成功
+2024-03-11 11:39:55,308 - INFO - 成功
+2024-03-11 11:39:55,320 - INFO - 成功
+2024-03-11 11:39:55,467 - INFO - 成功
+2024-03-11 11:39:55,944 - INFO - 成功
+2024-03-11 11:39:57,240 - INFO - 成功
+2024-03-11 11:39:57,865 - INFO - 成功
+2024-03-11 11:39:58,272 - INFO - 成功
+2024-03-11 11:39:58,272 - INFO - 成功
+2024-03-11 11:39:58,593 - INFO - 成功
+2024-03-11 11:39:59,245 - INFO - 成功
+2024-03-11 11:39:59,339 - INFO - 成功
+2024-03-11 11:39:59,343 - INFO - 成功
+2024-03-11 11:39:59,472 - INFO - 成功
+2024-03-11 11:39:59,562 - INFO - 成功
+2024-03-11 11:39:59,808 - INFO - 成功
+2024-03-11 11:40:00,006 - INFO - 成功
+2024-03-11 11:40:03,528 - INFO - 成功
+2024-03-11 11:40:03,633 - INFO - 成功
+2024-03-11 11:40:03,822 - INFO - 成功
+2024-03-11 11:40:07,877 - INFO - 成功
+2024-03-11 11:40:08,010 - INFO - 成功
+2024-03-11 11:40:08,432 - INFO - 成功
+2024-03-11 11:40:08,673 - INFO - 成功
+2024-03-11 11:40:08,673 - INFO - 成功
+2024-03-11 11:40:08,859 - INFO - 成功
+2024-03-11 11:40:13,288 - INFO - 成功
+2024-03-11 11:40:13,691 - INFO - 成功
+2024-03-11 11:40:14,320 - INFO - 成功
+2024-03-11 11:40:14,513 - INFO - 成功
+2024-03-11 11:40:14,581 - INFO - 成功
+2024-03-11 11:40:14,700 - INFO - 成功
+2024-03-11 11:40:14,704 - INFO - 成功
+2024-03-11 11:40:14,970 - INFO - 成功
+2024-03-11 11:40:23,241 - INFO - 成功
+2024-03-11 11:40:23,664 - INFO - 成功
+2024-03-11 11:40:24,802 - INFO - 成功
+2024-03-11 11:40:25,935 - INFO - 成功
+2024-03-11 11:40:26,338 - INFO - 成功
+2024-03-11 11:40:26,643 - INFO - 成功
+2024-03-11 11:40:26,981 - INFO - 成功
+2024-03-11 11:40:26,985 - INFO - 成功
+2024-03-11 11:40:27,040 - INFO - 成功
+2024-03-11 11:40:28,503 - INFO - 成功
+2024-03-11 11:40:28,506 - INFO - 成功
+2024-03-11 11:40:29,335 - INFO - 成功
+2024-03-11 11:40:29,532 - INFO - 成功
+2024-03-11 11:40:29,909 - INFO - 成功
+2024-03-11 11:40:30,563 - INFO - 成功
+2024-03-11 11:40:31,038 - INFO - 成功
+2024-03-11 11:40:31,208 - INFO - 成功
+2024-03-11 11:40:32,097 - INFO - 成功
+2024-03-11 11:40:32,244 - INFO - 成功
+2024-03-11 11:40:32,343 - INFO - 成功
+2024-03-11 11:40:32,361 - INFO - 成功
+2024-03-11 11:40:32,368 - INFO - 成功
+2024-03-11 11:40:32,626 - INFO - 成功
+2024-03-11 11:40:33,092 - INFO - 成功
+2024-03-11 11:40:33,093 - INFO - 成功
+2024-03-11 11:40:33,093 - INFO - 成功
+2024-03-11 11:40:33,096 - INFO - 成功
+2024-03-11 11:40:33,150 - INFO - 成功
+2024-03-11 11:40:33,954 - INFO - 成功
+2024-03-11 11:40:34,166 - INFO - 成功
+2024-03-11 11:40:34,813 - INFO - 成功
+2024-03-11 11:40:35,045 - INFO - 成功
+2024-03-11 11:40:35,147 - INFO - 成功
+2024-03-11 11:40:35,440 - INFO - 成功
+2024-03-11 11:40:36,013 - INFO - 成功
+2024-03-11 11:40:36,116 - INFO - 成功
+2024-03-11 11:40:36,278 - INFO - 成功
+2024-03-11 11:40:36,462 - INFO - 成功
+2024-03-11 11:40:36,830 - INFO - 成功
+2024-03-11 11:40:36,847 - INFO - 成功
+2024-03-11 11:40:37,233 - INFO - 成功
+2024-03-11 11:40:37,253 - INFO - 成功
+2024-03-11 11:40:37,253 - INFO - 成功
+2024-03-11 11:40:37,375 - INFO - 成功
+2024-03-11 11:40:37,550 - INFO - 成功
+2024-03-11 11:40:37,994 - INFO - 成功
+2024-03-11 11:40:38,344 - INFO - 成功
+2024-03-11 11:40:38,938 - INFO - 成功
+2024-03-11 11:40:39,000 - INFO - 成功
+2024-03-11 11:40:39,656 - INFO - 成功
+2024-03-11 11:40:39,664 - INFO - 成功
+2024-03-11 11:40:39,669 - INFO - 成功
+2024-03-11 11:40:40,274 - INFO - 成功
+2024-03-11 11:40:41,092 - INFO - 成功
+2024-03-11 11:40:41,116 - INFO - 成功
+2024-03-11 11:40:41,173 - INFO - 成功
+2024-03-11 11:40:41,295 - INFO - 成功
+2024-03-11 11:40:41,315 - INFO - 成功
+2024-03-11 11:40:42,335 - INFO - 成功
+2024-03-11 11:40:42,462 - INFO - 成功
+2024-03-11 11:40:42,466 - INFO - 成功
+2024-03-11 11:40:42,466 - INFO - 成功
+2024-03-11 11:40:42,546 - INFO - 成功
+2024-03-11 11:40:42,644 - INFO - 成功
+2024-03-11 11:40:48,260 - INFO - 成功
+2024-03-11 11:40:48,563 - INFO - 成功
+2024-03-11 11:40:49,696 - INFO - 成功
+2024-03-11 11:40:49,995 - INFO - 成功
+2024-03-11 11:40:50,491 - INFO - 成功
+2024-03-11 11:40:50,692 - INFO - 成功
+2024-03-11 11:40:51,078 - INFO - 成功
+2024-03-11 11:40:51,145 - INFO - 成功
+2024-03-11 11:40:51,167 - INFO - 成功
+2024-03-11 11:40:51,168 - INFO - 成功
+2024-03-11 11:40:51,315 - INFO - 成功
+2024-03-11 11:40:51,319 - INFO - 成功
+2024-03-11 11:40:51,348 - INFO - 成功
+2024-03-11 11:40:51,966 - INFO - 成功
+2024-03-11 11:40:56,841 - INFO - 成功
+2024-03-11 11:40:57,072 - INFO - 成功
+2024-03-11 11:40:58,096 - INFO - 成功
+2024-03-11 11:40:58,291 - INFO - 成功
+2024-03-11 11:40:58,291 - INFO - 成功
+2024-03-11 11:40:58,378 - INFO - 成功
+2024-03-11 11:40:58,391 - INFO - 成功
+2024-03-11 11:40:58,508 - INFO - 成功
+2024-03-11 11:40:58,696 - INFO - 成功
+2024-03-11 11:40:58,800 - INFO - 成功
+2024-03-11 11:41:01,890 - INFO - 成功
+2024-03-11 11:41:02,079 - INFO - 成功
+2024-03-11 11:41:09,900 - INFO - 成功
+2024-03-11 11:41:10,898 - INFO - 成功
+2024-03-11 11:41:11,273 - INFO - 成功
+2024-03-11 11:41:11,407 - INFO - 成功
+2024-03-11 11:41:13,349 - INFO - 成功
+2024-03-11 11:41:13,436 - INFO - 成功
+2024-03-11 11:41:14,552 - INFO - 成功
+2024-03-11 11:41:14,682 - INFO - 成功
+2024-03-11 11:41:14,701 - INFO - 成功
+2024-03-11 11:41:14,710 - INFO - 成功
+2024-03-11 11:41:15,220 - INFO - 成功
+2024-03-11 11:41:15,567 - INFO - 成功
+2024-03-11 11:41:15,679 - INFO - 成功
+2024-03-11 11:41:16,973 - INFO - 成功
+2024-03-11 11:41:16,978 - INFO - 成功
+2024-03-11 11:41:18,104 - INFO - 成功
+2024-03-11 11:41:18,132 - INFO - 成功
+2024-03-11 11:41:18,235 - INFO - 成功
+2024-03-11 11:41:18,447 - INFO - 成功
+2024-03-11 11:41:19,309 - INFO - 成功
+2024-03-11 11:41:19,460 - INFO - 成功
+2024-03-11 11:41:19,689 - INFO - 成功
+2024-03-11 11:41:19,697 - INFO - 成功
+2024-03-11 11:41:20,293 - INFO - 成功
+2024-03-11 11:41:20,310 - INFO - 成功
+2024-03-11 11:41:20,310 - INFO - 成功
+2024-03-11 11:41:20,413 - INFO - 成功
+2024-03-11 11:41:20,426 - INFO - 成功
+2024-03-11 11:41:20,433 - INFO - 成功
+2024-03-11 11:41:20,750 - INFO - 成功
+2024-03-11 11:41:21,012 - INFO - 成功
+2024-03-11 11:41:21,020 - INFO - 成功
+2024-03-11 11:41:21,025 - INFO - 成功
+2024-03-11 11:41:21,518 - INFO - 成功
+2024-03-11 11:41:22,448 - INFO - 成功
+2024-03-11 11:41:22,874 - INFO - 成功
+2024-03-11 11:41:23,196 - INFO - 成功
+2024-03-11 11:41:23,200 - INFO - 成功
+2024-03-11 11:41:23,571 - INFO - 成功
+2024-03-11 11:41:23,710 - INFO - 成功
+2024-03-11 11:41:23,735 - INFO - 成功
+2024-03-11 11:41:23,928 - INFO - 成功
+2024-03-11 11:41:24,165 - INFO - 成功
+2024-03-11 11:41:24,453 - INFO - 成功
+2024-03-11 11:41:25,169 - INFO - 成功
+2024-03-11 11:41:25,219 - INFO - 成功
+2024-03-11 11:41:25,220 - INFO - 成功
+2024-03-11 11:41:25,338 - INFO - 成功
+2024-03-11 11:41:25,339 - INFO - 成功
+2024-03-11 11:41:25,445 - INFO - 成功
+2024-03-11 11:41:25,867 - INFO - 成功
+2024-03-11 11:41:26,193 - INFO - 成功
+2024-03-11 11:41:26,193 - INFO - 成功
+2024-03-11 11:41:27,270 - INFO - 成功
+2024-03-11 11:41:27,786 - INFO - 成功
+2024-03-11 11:41:27,975 - INFO - 成功
+2024-03-11 11:41:28,537 - INFO - 成功
+2024-03-11 11:41:28,677 - INFO - 成功
+2024-03-11 11:41:28,845 - INFO - 成功
+2024-03-11 11:41:29,525 - INFO - 成功
+2024-03-11 11:41:29,716 - INFO - 成功
+2024-03-11 11:41:29,923 - INFO - 成功
+2024-03-11 11:41:30,099 - INFO - 成功
+2024-03-11 11:41:30,606 - INFO - 成功
+2024-03-11 11:41:31,948 - INFO - 成功
+2024-03-11 11:41:32,571 - INFO - 成功
+2024-03-11 11:41:33,106 - INFO - 成功
+2024-03-11 11:41:33,288 - INFO - 成功
+2024-03-11 11:41:34,653 - INFO - 成功
+2024-03-11 11:41:35,229 - INFO - 成功
+2024-03-11 11:41:35,473 - INFO - 成功
+2024-03-11 11:41:37,038 - INFO - 成功
+2024-03-11 11:41:37,771 - INFO - 成功
+2024-03-11 11:41:37,776 - INFO - 成功
+2024-03-11 11:41:37,934 - INFO - 成功
+2024-03-11 11:41:38,035 - INFO - 成功
+2024-03-11 11:41:38,269 - INFO - 成功
+2024-03-11 11:41:39,239 - INFO - 成功
+2024-03-11 11:41:39,362 - INFO - 成功
+2024-03-11 11:41:39,369 - INFO - 成功
+2024-03-11 11:41:39,441 - INFO - 成功
+2024-03-11 11:41:39,920 - INFO - 成功
+2024-03-11 11:41:40,299 - INFO - 成功
+2024-03-11 11:41:40,544 - INFO - 成功
+2024-03-11 11:41:41,391 - INFO - 成功
+2024-03-11 11:41:41,544 - INFO - 成功
+2024-03-11 11:41:41,849 - INFO - 成功
+2024-03-11 11:41:41,854 - INFO - 成功
+2024-03-11 11:41:42,192 - INFO - 成功
+2024-03-11 11:41:42,460 - INFO - 成功
+2024-03-11 11:41:42,460 - INFO - 成功
+2024-03-11 11:41:43,166 - INFO - 成功
+2024-03-11 11:41:43,199 - INFO - 成功
+2024-03-11 11:41:43,392 - INFO - 成功
+2024-03-11 11:41:43,656 - INFO - 成功
+2024-03-11 11:41:44,149 - INFO - 成功
+2024-03-11 11:41:44,158 - INFO - 成功
+2024-03-11 11:41:44,329 - INFO - 成功
+2024-03-11 11:41:45,144 - INFO - 成功
+2024-03-11 11:41:45,333 - INFO - 成功
+2024-03-11 11:41:45,448 - INFO - 成功
+2024-03-11 11:41:46,312 - INFO - 成功
+2024-03-11 11:41:46,802 - INFO - 成功
+2024-03-11 11:41:47,390 - INFO - 成功
+2024-03-11 11:41:47,604 - INFO - 成功
+2024-03-11 11:41:48,032 - INFO - 成功
+2024-03-11 11:41:48,138 - INFO - 成功
+2024-03-11 11:41:48,843 - INFO - 成功
+2024-03-11 11:41:49,495 - INFO - 成功
+2024-03-11 11:41:49,825 - INFO - 成功
+2024-03-11 11:41:49,826 - INFO - 成功
+2024-03-11 11:41:50,515 - INFO - 成功
+2024-03-11 11:41:50,897 - INFO - 成功
+2024-03-11 11:41:51,334 - INFO - 成功
+2024-03-11 11:41:52,030 - INFO - 成功
+2024-03-11 11:41:52,412 - INFO - 成功
+2024-03-11 11:41:52,602 - INFO - 成功
+2024-03-11 11:41:53,463 - INFO - 成功
+2024-03-11 11:41:53,988 - INFO - 成功
+2024-03-11 11:41:54,159 - INFO - 成功
+2024-03-11 11:41:54,338 - INFO - 成功
+2024-03-11 11:41:54,839 - INFO - 成功
+2024-03-11 11:41:55,490 - INFO - 成功
+2024-03-11 11:41:55,703 - INFO - 成功
+2024-03-11 11:41:56,658 - INFO - 成功
+2024-03-11 11:41:56,658 - INFO - 成功
+2024-03-11 11:41:56,878 - INFO - 成功
+2024-03-11 11:41:56,891 - INFO - 成功
+2024-03-11 11:41:57,693 - INFO - 成功
+2024-03-11 11:41:57,882 - INFO - 成功
+2024-03-11 11:41:57,990 - INFO - 成功
+2024-03-11 11:41:58,867 - INFO - 成功
+2024-03-11 11:41:59,116 - INFO - 成功
+2024-03-11 11:41:59,120 - INFO - 成功
+2024-03-11 11:42:00,391 - INFO - 成功
+2024-03-11 11:42:00,555 - INFO - 成功
+2024-03-11 11:42:00,713 - INFO - 成功
+2024-03-11 11:42:02,239 - INFO - 成功
+2024-03-11 11:42:02,366 - INFO - 成功
+2024-03-11 11:42:02,385 - INFO - 成功
+2024-03-11 11:42:03,241 - INFO - 成功
+2024-03-11 11:42:03,513 - INFO - 成功
+2024-03-11 11:42:03,535 - INFO - 成功
+2024-03-11 11:42:03,679 - INFO - 成功
+2024-03-11 11:42:03,680 - INFO - 成功
+2024-03-11 11:42:03,815 - INFO - 成功
+2024-03-11 11:42:03,826 - INFO - 成功
+2024-03-11 11:42:03,955 - INFO - 成功
+2024-03-11 11:42:11,811 - INFO - 成功
+2024-03-11 11:42:13,094 - INFO - 成功
+2024-03-11 11:42:13,565 - INFO - 成功
+2024-03-11 11:42:14,518 - INFO - 成功
+2024-03-11 11:42:14,533 - INFO - 成功
+2024-03-11 11:42:16,552 - INFO - 成功
+2024-03-11 11:42:17,404 - INFO - 成功
+2024-03-11 11:42:17,602 - INFO - 成功
+2024-03-11 11:42:18,164 - INFO - 成功
+2024-03-11 11:42:18,636 - INFO - 成功
+2024-03-11 11:42:18,898 - INFO - 成功
+2024-03-11 11:42:19,400 - INFO - 成功
+2024-03-11 11:42:19,601 - INFO - 成功
+2024-03-11 11:42:20,353 - INFO - 成功
+2024-03-11 11:42:20,359 - INFO - 成功
+2024-03-11 11:42:20,486 - INFO - 成功
+2024-03-11 11:42:20,503 - INFO - 成功
+2024-03-11 11:42:20,647 - INFO - 成功
+2024-03-11 11:42:20,983 - INFO - 成功
+2024-03-11 11:42:21,793 - INFO - 成功
+2024-03-11 11:42:21,794 - INFO - 成功
+2024-03-11 11:42:21,796 - INFO - 成功
+2024-03-11 11:42:21,860 - INFO - 成功
+2024-03-11 11:42:21,908 - INFO - 成功
+2024-03-11 11:42:21,914 - INFO - 成功
+2024-03-11 11:42:22,604 - INFO - 成功
+2024-03-11 11:42:22,609 - INFO - 成功
+2024-03-11 11:42:22,709 - INFO - 成功
+2024-03-11 11:42:22,741 - INFO - 成功
+2024-03-11 11:42:22,742 - INFO - 成功
+2024-03-11 11:42:22,789 - INFO - 成功
+2024-03-11 11:42:23,104 - INFO - 成功
+2024-03-11 11:42:23,262 - INFO - 成功
+2024-03-11 11:42:23,407 - INFO - 成功
+2024-03-11 11:42:23,588 - INFO - 成功
+2024-03-11 11:42:24,503 - INFO - 成功
+2024-03-11 11:42:24,758 - INFO - 成功
+2024-03-11 11:42:24,870 - INFO - 成功
+2024-03-11 11:42:24,886 - INFO - 成功
+2024-03-11 11:42:25,166 - INFO - 成功
+2024-03-11 11:42:25,358 - INFO - 成功
+2024-03-11 11:42:25,566 - INFO - 成功
+2024-03-11 11:42:26,113 - INFO - 成功
+2024-03-11 11:42:26,704 - INFO - 成功
+2024-03-11 11:42:26,796 - INFO - 成功
+2024-03-11 11:42:26,806 - INFO - 成功
+2024-03-11 11:42:27,111 - INFO - 成功
+2024-03-11 11:42:27,471 - INFO - 成功
+2024-03-11 11:42:27,790 - INFO - 成功
+2024-03-11 11:42:28,429 - INFO - 成功
+2024-03-11 11:42:29,514 - INFO - 成功
+2024-03-11 11:42:29,597 - INFO - 成功
+2024-03-11 11:42:30,370 - INFO - 成功
+2024-03-11 11:42:30,382 - INFO - 成功
+2024-03-11 11:42:30,924 - INFO - 成功
+2024-03-11 11:42:31,313 - INFO - 成功
+2024-03-11 11:42:31,547 - INFO - 成功
+2024-03-11 11:42:32,273 - INFO - 成功
+2024-03-11 11:42:32,712 - INFO - 成功
+2024-03-11 11:42:32,922 - INFO - 成功
+2024-03-11 11:42:33,446 - INFO - 成功
+2024-03-11 11:42:33,878 - INFO - 成功
+2024-03-11 11:42:34,061 - INFO - 成功
+2024-03-11 11:42:34,320 - INFO - 成功
+2024-03-11 11:42:34,512 - INFO - 成功
+2024-03-11 11:42:35,464 - INFO - 成功
+2024-03-11 11:42:35,798 - INFO - 成功
+2024-03-11 11:42:36,319 - INFO - 成功
+2024-03-11 11:42:36,555 - INFO - 成功
+2024-03-11 11:42:36,565 - INFO - 成功
+2024-03-11 11:42:36,746 - INFO - 成功
+2024-03-11 11:42:37,598 - INFO - 成功
+2024-03-11 11:42:38,264 - INFO - 成功
+2024-03-11 11:42:39,219 - INFO - 成功
+2024-03-11 11:42:39,234 - INFO - 成功
+2024-03-11 11:42:39,674 - INFO - 成功
+2024-03-11 11:42:40,428 - INFO - 成功
+2024-03-11 11:42:40,621 - INFO - 成功
+2024-03-11 11:42:40,621 - INFO - 成功
+2024-03-11 11:42:40,953 - INFO - 成功
+2024-03-11 11:42:41,709 - INFO - 成功
+2024-03-11 11:42:42,476 - INFO - 成功
+2024-03-11 11:42:42,697 - INFO - 成功
+2024-03-11 11:42:43,523 - INFO - 成功
+2024-03-11 11:42:44,108 - INFO - 成功
+2024-03-11 11:42:44,540 - INFO - 成功
+2024-03-11 11:42:44,769 - INFO - 成功
+2024-03-11 11:42:44,904 - INFO - 成功
+2024-03-11 11:42:45,487 - INFO - 成功
+2024-03-11 11:42:46,508 - INFO - 成功
+2024-03-11 11:42:46,721 - INFO - 成功
+2024-03-11 11:42:46,725 - INFO - 成功
+2024-03-11 11:42:47,127 - INFO - 成功
+2024-03-11 11:42:47,506 - INFO - 成功
+2024-03-11 11:42:48,068 - INFO - 成功
+2024-03-11 11:42:48,744 - INFO - 成功
+2024-03-11 11:42:49,044 - INFO - 成功
+2024-03-11 11:42:49,586 - INFO - 成功
+2024-03-11 11:42:49,684 - INFO - 成功
+2024-03-11 11:42:49,915 - INFO - 成功
+2024-03-11 11:42:50,320 - INFO - 成功
+2024-03-11 11:42:50,514 - INFO - 成功
+2024-03-11 11:42:50,843 - INFO - 成功
+2024-03-11 11:42:51,679 - INFO - 成功
+2024-03-11 11:42:52,308 - INFO - 成功
+2024-03-11 11:42:52,568 - INFO - 成功
+2024-03-11 11:42:53,202 - INFO - 成功
+2024-03-11 11:42:54,244 - INFO - 成功
+2024-03-11 11:42:54,717 - INFO - 成功
+2024-03-11 11:42:55,329 - INFO - 成功
+2024-03-11 11:42:56,347 - INFO - 成功
+2024-03-11 11:42:57,079 - INFO - 成功
+2024-03-11 11:42:57,695 - INFO - 成功
+2024-03-11 11:42:58,328 - INFO - 成功
+2024-03-11 11:42:59,388 - INFO - 成功
+2024-03-11 11:43:00,379 - INFO - 成功
+2024-03-11 11:43:00,683 - INFO - 成功
+2024-03-11 11:43:01,087 - INFO - 成功
+2024-03-11 11:43:01,386 - INFO - 成功
+2024-03-11 11:43:02,082 - INFO - 成功
+2024-03-11 11:43:03,075 - INFO - 成功
+2024-03-11 11:43:03,177 - INFO - 成功
+2024-03-11 11:43:03,356 - INFO - 成功
+2024-03-11 11:43:03,358 - INFO - 成功
+2024-03-11 11:43:04,496 - INFO - 成功
+2024-03-11 11:43:04,886 - INFO - 成功
+2024-03-11 11:43:05,000 - INFO - 成功
+2024-03-11 11:43:05,275 - INFO - 成功
+2024-03-11 11:43:06,664 - INFO - 成功
+2024-03-11 11:43:06,936 - INFO - 成功
+2024-03-11 11:43:07,059 - INFO - 成功
+2024-03-11 11:43:07,419 - INFO - 成功
+2024-03-11 11:43:07,540 - INFO - 成功
+2024-03-11 11:43:07,984 - INFO - 成功
+2024-03-11 11:43:08,326 - INFO - 成功
+2024-03-11 11:43:08,691 - INFO - 成功
+2024-03-11 11:43:09,151 - INFO - 成功
+2024-03-11 11:43:09,181 - INFO - 成功
+2024-03-11 11:43:09,196 - INFO - 成功
+2024-03-11 11:43:09,706 - INFO - 成功
+2024-03-11 11:43:10,357 - INFO - 成功
+2024-03-11 11:43:10,524 - INFO - 成功
+2024-03-11 11:43:10,628 - INFO - 成功
+2024-03-11 11:43:10,940 - INFO - 成功
+2024-03-11 11:43:11,599 - INFO - 成功
+2024-03-11 11:43:11,926 - INFO - 成功
+2024-03-11 11:43:12,321 - INFO - 成功
+2024-03-11 11:43:12,466 - INFO - 成功
+2024-03-11 11:43:13,743 - INFO - 成功
+2024-03-11 11:43:13,748 - INFO - 成功
+2024-03-11 11:43:13,939 - INFO - 成功
+2024-03-11 11:43:13,947 - INFO - 成功
+2024-03-11 11:43:14,380 - INFO - 成功
+2024-03-11 11:43:14,704 - INFO - 成功
+2024-03-11 11:43:14,953 - INFO - 成功
+2024-03-11 11:43:15,252 - INFO - 成功
+2024-03-11 11:43:15,666 - INFO - 成功
+2024-03-11 11:43:15,773 - INFO - 成功
+2024-03-11 11:43:16,694 - INFO - 成功
+2024-03-11 11:43:18,196 - INFO - 成功
+2024-03-11 11:43:18,197 - INFO - 成功
+2024-03-11 11:43:18,312 - INFO - 成功
+2024-03-11 11:43:18,402 - INFO - 成功
+2024-03-11 11:43:19,334 - INFO - 成功
+2024-03-11 11:43:19,334 - INFO - 成功
+2024-03-11 11:43:19,501 - INFO - 成功
+2024-03-11 11:43:19,681 - INFO - 成功
+2024-03-11 11:43:20,009 - INFO - 成功
+2024-03-11 11:43:20,026 - INFO - 成功
+2024-03-11 11:43:20,099 - INFO - 成功
+2024-03-11 11:43:20,132 - INFO - 成功
+2024-03-11 11:43:28,893 - INFO - 成功
+2024-03-11 11:43:29,677 - INFO - 成功
+2024-03-11 11:43:31,646 - INFO - 成功
+2024-03-11 11:43:31,981 - INFO - 成功
+2024-03-11 11:43:31,987 - INFO - 成功
+2024-03-11 11:43:33,399 - INFO - 成功
+2024-03-11 11:43:33,641 - INFO - 成功
+2024-03-11 11:43:34,255 - INFO - 成功
+2024-03-11 11:43:35,225 - INFO - 成功
+2024-03-11 11:43:36,149 - INFO - 成功
+2024-03-11 11:43:37,055 - INFO - 成功
+2024-03-11 11:43:37,371 - INFO - 成功
+2024-03-11 11:43:37,411 - INFO - 成功
+2024-03-11 11:43:38,379 - INFO - 成功
+2024-03-11 11:43:38,749 - INFO - 成功
+2024-03-11 11:43:38,754 - INFO - 成功
+2024-03-11 11:43:38,792 - INFO - 成功
+2024-03-11 11:43:38,887 - INFO - 成功
+2024-03-11 11:43:39,047 - INFO - 成功
+2024-03-11 11:43:39,209 - INFO - 成功
+2024-03-11 11:43:39,210 - INFO - 成功
+2024-03-11 11:43:39,642 - INFO - 成功
+2024-03-11 11:43:39,646 - INFO - 成功
+2024-03-11 11:43:39,899 - INFO - 成功
+2024-03-11 11:43:39,922 - INFO - 成功
+2024-03-11 11:43:40,483 - INFO - 成功
+2024-03-11 11:43:40,484 - INFO - 成功
+2024-03-11 11:43:40,484 - INFO - 成功
+2024-03-11 11:43:40,484 - INFO - 成功
+2024-03-11 11:43:41,474 - INFO - 成功
+2024-03-11 11:43:41,476 - INFO - 成功
+2024-03-11 11:43:42,079 - INFO - 成功
+2024-03-11 11:43:42,432 - INFO - 成功
+2024-03-11 11:43:42,530 - INFO - 成功
+2024-03-11 11:43:42,530 - INFO - 成功
+2024-03-11 11:43:42,530 - INFO - 成功
+2024-03-11 11:43:42,836 - INFO - 成功
+2024-03-11 11:43:42,907 - INFO - 成功
+2024-03-11 11:43:43,126 - INFO - 成功
+2024-03-11 11:43:43,578 - INFO - 成功
+2024-03-11 11:43:44,004 - INFO - 成功
+2024-03-11 11:43:44,431 - INFO - 成功
+2024-03-11 11:43:44,955 - INFO - 成功
+2024-03-11 11:43:44,964 - INFO - 成功
+2024-03-11 11:43:45,117 - INFO - 成功
+2024-03-11 11:43:45,521 - INFO - 成功
+2024-03-11 11:43:45,902 - INFO - 成功
+2024-03-11 11:43:46,270 - INFO - 成功
+2024-03-11 11:43:46,812 - INFO - 成功
+2024-03-11 11:43:47,498 - INFO - 成功
+2024-03-11 11:43:47,904 - INFO - 成功
+2024-03-11 11:43:48,478 - INFO - 成功
+2024-03-11 11:43:48,693 - INFO - 成功
+2024-03-11 11:43:48,693 - INFO - 成功
+2024-03-11 11:43:49,244 - INFO - 成功
+2024-03-11 11:43:49,255 - INFO - 成功
+2024-03-11 11:43:49,598 - INFO - 成功
+2024-03-11 11:43:50,158 - INFO - 成功
+2024-03-11 11:43:58,875 - INFO - 成功
+2024-03-11 11:43:58,984 - INFO - 成功
+2024-03-11 11:43:59,869 - INFO - 成功
+2024-03-11 11:43:59,879 - INFO - 成功
+2024-03-11 11:44:00,870 - INFO - 成功
+2024-03-11 11:44:02,585 - INFO - 成功
+2024-03-11 11:44:02,698 - INFO - 成功
+2024-03-11 11:44:03,013 - INFO - 成功
+2024-03-11 11:44:03,026 - INFO - 成功
+2024-03-11 11:44:03,502 - INFO - 成功
+2024-03-11 11:44:03,721 - INFO - 成功
+2024-03-11 11:44:03,734 - INFO - 成功
+2024-03-11 11:44:04,111 - INFO - 成功
+2024-03-11 11:44:04,124 - INFO - 成功
+2024-03-11 11:44:04,128 - INFO - 成功
+2024-03-11 11:44:04,145 - INFO - 成功
+2024-03-11 11:44:04,322 - INFO - 成功
+2024-03-11 11:44:04,369 - INFO - 成功
+2024-03-11 11:44:04,436 - INFO - 成功
+2024-03-11 11:44:04,437 - INFO - 成功
+2024-03-11 11:44:04,467 - INFO - 成功
+2024-03-11 11:44:04,497 - INFO - 成功
+2024-03-11 11:44:04,507 - INFO - 成功
+2024-03-11 11:44:10,069 - INFO - 成功
+2024-03-11 11:44:10,972 - INFO - 成功
+2024-03-11 11:44:11,255 - INFO - 成功
+2024-03-11 11:44:11,356 - INFO - 成功
+2024-03-11 11:44:11,357 - INFO - 成功
+2024-03-11 11:44:12,417 - INFO - 成功
+2024-03-11 11:44:12,418 - INFO - 成功
+2024-03-11 11:44:12,575 - INFO - 成功
+2024-03-11 11:44:12,588 - INFO - 成功
+2024-03-11 11:44:12,600 - INFO - 成功
+2024-03-11 11:44:12,607 - INFO - 成功
+2024-03-11 11:44:12,683 - INFO - 成功
+2024-03-11 11:44:20,926 - INFO - 成功
+2024-03-11 11:44:21,082 - INFO - 成功
+2024-03-11 11:44:21,371 - INFO - 成功
+2024-03-11 11:44:23,660 - INFO - 成功
+2024-03-11 11:44:23,803 - INFO - 成功
+2024-03-11 11:44:23,986 - INFO - 成功
+2024-03-11 11:44:24,359 - INFO - 成功
+2024-03-11 11:44:25,344 - INFO - 成功
+2024-03-11 11:44:25,371 - INFO - 成功
+2024-03-11 11:44:25,608 - INFO - 成功
+2024-03-11 11:44:25,813 - INFO - 成功
+2024-03-11 11:44:26,935 - INFO - 成功
+2024-03-11 11:44:27,404 - INFO - 成功
+2024-03-11 11:44:28,153 - INFO - 成功
+2024-03-11 11:44:28,320 - INFO - 成功
+2024-03-11 11:44:28,489 - INFO - 成功
+2024-03-11 11:44:28,796 - INFO - 成功
+2024-03-11 11:44:28,796 - INFO - 成功
+2024-03-11 11:44:28,798 - INFO - 成功
+2024-03-11 11:44:28,989 - INFO - 成功
+2024-03-11 11:44:29,318 - INFO - 成功
+2024-03-11 11:44:29,637 - INFO - 成功
+2024-03-11 11:44:29,748 - INFO - 成功
+2024-03-11 11:44:29,801 - INFO - 成功
+2024-03-11 11:44:29,838 - INFO - 成功
+2024-03-11 11:44:30,238 - INFO - 成功
+2024-03-11 11:44:30,240 - INFO - 成功
+2024-03-11 11:44:30,417 - INFO - 成功
+2024-03-11 11:44:30,500 - INFO - 成功
+2024-03-11 11:44:30,707 - INFO - 成功
+2024-03-11 11:44:31,184 - INFO - 成功
+2024-03-11 11:44:31,391 - INFO - 成功
+2024-03-11 11:44:31,395 - INFO - 成功
+2024-03-11 11:44:32,184 - INFO - 成功
+2024-03-11 11:44:32,284 - INFO - 成功
+2024-03-11 11:44:32,877 - INFO - 成功
+2024-03-11 11:44:33,020 - INFO - 成功
+2024-03-11 11:44:33,035 - INFO - 成功
+2024-03-11 11:44:33,181 - INFO - 成功
+2024-03-11 11:44:33,455 - INFO - 成功
+2024-03-11 11:44:33,560 - INFO - 成功
+2024-03-11 11:44:33,614 - INFO - 成功
+2024-03-11 11:44:33,791 - INFO - 成功
+2024-03-11 11:44:33,921 - INFO - 成功
+2024-03-11 11:44:34,260 - INFO - 成功
+2024-03-11 11:44:34,876 - INFO - 成功
+2024-03-11 11:44:34,888 - INFO - 成功
+2024-03-11 11:44:35,107 - INFO - 成功
+2024-03-11 11:44:35,372 - INFO - 成功
+2024-03-11 11:44:35,749 - INFO - 成功
+2024-03-11 11:44:36,663 - INFO - 成功
+2024-03-11 11:44:36,814 - INFO - 成功
+2024-03-11 11:44:37,822 - INFO - 成功
+2024-03-11 11:44:37,822 - INFO - 成功
+2024-03-11 11:44:38,002 - INFO - 成功
+2024-03-11 11:44:38,828 - INFO - 成功
+2024-03-11 11:44:39,212 - INFO - 成功
+2024-03-11 11:44:39,300 - INFO - 成功
+2024-03-11 11:44:40,466 - INFO - 成功
+2024-03-11 11:44:40,496 - INFO - 成功
+2024-03-11 11:44:40,785 - INFO - 成功
+2024-03-11 11:44:40,932 - INFO - 成功
+2024-03-11 11:44:41,374 - INFO - 成功
+2024-03-11 11:44:41,394 - INFO - 成功
+2024-03-11 11:44:41,399 - INFO - 成功
+2024-03-11 11:44:41,511 - INFO - 成功
+2024-03-11 11:44:41,572 - INFO - 成功
+2024-03-11 11:44:50,398 - INFO - 成功
+2024-03-11 11:44:50,422 - INFO - 成功
+2024-03-11 11:44:51,486 - INFO - 成功
+2024-03-11 11:44:51,503 - INFO - 成功
+2024-03-11 11:44:52,270 - INFO - 成功
+2024-03-11 11:44:53,673 - INFO - 成功
+2024-03-11 11:44:53,787 - INFO - 成功
+2024-03-11 11:44:54,188 - INFO - 成功
+2024-03-11 11:44:54,867 - INFO - 成功
+2024-03-11 11:44:55,171 - INFO - 成功
+2024-03-11 11:44:55,176 - INFO - 成功
+2024-03-11 11:44:55,621 - INFO - 成功
+2024-03-11 11:44:55,817 - INFO - 成功
+2024-03-11 11:44:56,282 - INFO - 成功
+2024-03-11 11:44:56,483 - INFO - 成功
+2024-03-11 11:44:56,488 - INFO - 成功
+2024-03-11 11:44:56,764 - INFO - 成功
+2024-03-11 11:44:57,252 - INFO - 成功
+2024-03-11 11:44:57,774 - INFO - 成功
+2024-03-11 11:44:58,186 - INFO - 成功
+2024-03-11 11:44:58,509 - INFO - 成功
+2024-03-11 11:44:58,526 - INFO - 成功
+2024-03-11 11:44:58,536 - INFO - 成功
+2024-03-11 11:44:58,915 - INFO - 成功
+2024-03-11 11:44:58,945 - INFO - 成功
+2024-03-11 11:44:59,023 - INFO - 成功
+2024-03-11 11:44:59,023 - INFO - 成功
+2024-03-11 11:44:59,023 - INFO - 成功
+2024-03-11 11:44:59,128 - INFO - 成功
+2024-03-11 11:44:59,128 - INFO - 成功
+2024-03-11 11:44:59,298 - INFO - 成功
+2024-03-11 11:44:59,316 - INFO - 成功
+2024-03-11 11:44:59,513 - INFO - 成功
+2024-03-11 11:44:59,670 - INFO - 成功
+2024-03-11 11:45:00,633 - INFO - 成功
+2024-03-11 11:45:01,040 - INFO - 成功
+2024-03-11 11:45:01,153 - INFO - 成功
+2024-03-11 11:45:01,208 - INFO - 成功
+2024-03-11 11:45:01,372 - INFO - 成功
+2024-03-11 11:45:01,377 - INFO - 成功
+2024-03-11 11:45:01,401 - INFO - 成功
+2024-03-11 11:45:01,412 - INFO - 成功
+2024-03-11 11:45:02,239 - INFO - 成功
+2024-03-11 11:45:02,257 - INFO - 成功
+2024-03-11 11:45:02,578 - INFO - 成功
+2024-03-11 11:45:02,583 - INFO - 成功
+2024-03-11 11:45:02,664 - INFO - 成功
+2024-03-11 11:45:03,180 - INFO - 成功
+2024-03-11 11:45:03,399 - INFO - 成功
+2024-03-11 11:45:04,797 - INFO - 成功
+2024-03-11 11:45:05,520 - INFO - 成功
+2024-03-11 11:45:05,775 - INFO - 成功
+2024-03-11 11:45:06,254 - INFO - 成功
+2024-03-11 11:45:06,592 - INFO - 成功
+2024-03-11 11:45:06,742 - INFO - 成功
+2024-03-11 11:45:06,773 - INFO - 成功
+2024-03-11 11:45:06,917 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']
+2024-03-11 11:45:07,335 - INFO - 成功
+2024-03-11 11:45:08,338 - INFO - 成功
+2024-03-11 11:45:08,625 - INFO - 成功
+2024-03-11 11:45:08,885 - INFO - 成功
+2024-03-11 11:45:09,232 - INFO - 成功
+2024-03-11 11:45:09,332 - INFO - 成功
+2024-03-11 11:45:10,035 - INFO - 成功
+2024-03-11 11:45:10,968 - INFO - 成功
+2024-03-11 11:45:11,415 - INFO - 成功
+2024-03-11 11:45:11,420 - INFO - 成功
+2024-03-11 11:45:11,785 - INFO - 成功
+2024-03-11 11:45:11,984 - INFO - 成功
+2024-03-11 11:45:12,006 - INFO - 成功
+2024-03-11 11:45:12,539 - INFO - 成功
+2024-03-11 11:45:12,808 - INFO - 成功
+2024-03-11 11:45:13,036 - INFO - 成功
+2024-03-11 11:45:13,336 - INFO - 成功
+2024-03-11 11:45:13,919 - INFO - 成功
+2024-03-11 11:45:14,258 - INFO - 成功
+2024-03-11 11:45:14,450 - INFO - 成功
+2024-03-11 11:45:15,046 - INFO - 成功
+2024-03-11 11:45:15,147 - INFO - 成功
+2024-03-11 11:45:15,342 - INFO - 成功
+2024-03-11 11:45:16,424 - INFO - 成功
+2024-03-11 11:45:16,741 - INFO - 成功
+2024-03-11 11:45:17,413 - INFO - 成功
+2024-03-11 11:45:17,433 - INFO - 成功
+2024-03-11 11:45:17,599 - INFO - 成功
+2024-03-11 11:45:17,942 - INFO - 成功
+2024-03-11 11:45:18,276 - INFO - 成功
+2024-03-11 11:45:18,457 - INFO - 成功
+2024-03-11 11:45:19,018 - INFO - 成功
+2024-03-11 11:45:19,900 - INFO - 成功
+2024-03-11 11:45:20,579 - INFO - 成功
+2024-03-11 11:45:20,750 - INFO - 成功
+2024-03-11 11:45:20,959 - INFO - 成功
+2024-03-11 11:45:21,556 - INFO - 成功
+2024-03-11 11:45:21,868 - INFO - 成功
+2024-03-11 11:45:22,534 - INFO - 成功
+2024-03-11 11:45:22,544 - INFO - 成功
+2024-03-11 11:45:22,654 - INFO - 成功
+2024-03-11 11:45:22,657 - INFO - 成功
+2024-03-11 11:45:23,043 - INFO - 成功
+2024-03-11 11:45:23,061 - INFO - 成功
+2024-03-11 11:45:23,169 - INFO - 成功

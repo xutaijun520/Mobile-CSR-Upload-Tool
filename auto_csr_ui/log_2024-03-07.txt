@@ -1,0 +1,13 @@
+2024-03-07 17:38:24,862 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-07 17:38:25,157 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-07 17:38:25,549 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-07 17:38:28,000 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']
+2024-03-07 17:39:11,359 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-07 17:39:11,492 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-07 17:39:11,589 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-07 17:39:13,968 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']
+2024-03-07 17:44:00,007 - DEBUG - Running job Job(interval=1, unit=days, do=<lambda>, args=(), kwargs={})
+2024-03-07 17:44:02,918 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106193639_CSR.json']
+2024-03-07 17:44:02,927 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106190755_CSR.json']
+2024-03-07 17:44:03,169 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\20231106\\YJP2NB037D100063_20231106192158_CSR.json']
+2024-03-07 17:44:05,595 - ERROR - ['D:\\PycharmProjects\\auto_csr\\csr\\新建文件夹\\YJP2NB037D100059_20231107095702_CSR.json']

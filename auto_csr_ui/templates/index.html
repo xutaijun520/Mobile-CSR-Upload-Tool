@@ -1,0 +1,48 @@
+<script>
+
+// 页面加载完成后执行
+window.onload = function() {
+  // 设置一个定时器，每10000毫秒（即10秒）执行一次指定的函数
+  setInterval(function() {
+    // 刷新页面
+    location.reload();
+  }, 10000);
+};
+</script>
+
+<style>
+    #customers {
+      font-family: Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    #customers td, #customers th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    #customers tr:nth-child(even){background-color: #f2f2f2;}
+    
+    #customers tr:hover {background-color: #ddd;}
+    
+    #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #4CAF50;
+      color: white;
+    }
+</style>
+<table id="customers">
+    <th>目录名</th><th>需上传总数</th><th>上传失败数</th><th>上传成功数</th>
+    {% for i in  data.result %}
+    <tr >
+        
+        {% for j in i %}
+        <td style="border:2px solid">{{ j }}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+
+</table>
